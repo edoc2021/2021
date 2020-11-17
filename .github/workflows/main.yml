@@ -14,6 +14,7 @@ jobs:
         with:
           access-token: ${{ secrets.EDOC2021_SECRET }}
           deploy-branch: master
+          gatsby-args: --prefix-paths
         env:
           GA_TRACKING_ID: ${{ secrets.GA_TRACKING_ID }}
 
