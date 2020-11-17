@@ -32,7 +32,6 @@ class Layout extends React.Component {
     navigate("/")
   }
 
-
   render() {
     return (
       <StaticQuery

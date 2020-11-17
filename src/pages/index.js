@@ -1,20 +1,24 @@
 import React from "react"
-import { navigate } from "gatsby"
+import { graphql } from "gatsby"
+
 import Layout from "../components/layout/layout"
-import { Container } from "react-bootstrap"
 
 class IndexPage extends React.Component {
-
-  // componentDidMount() {
-  //   navigate("/EDOC2021");
-  // }
-
   render() {
+    const { posts } = this.props.data
+
     return (
-      <Layout>
-        <Container>
-          <h1>Hello World</h1>
-        </Container>
+      <Layout location={this.props.location}>
+        <div className="article">
+          <div className="container">
+            <h1 style={{ color: "#2c4f90" }}>EDOC2021</h1>
+            <div
+              dangerouslySetInnerHTML={{
+                __html: posts.edges[0].node.html || ""
+              }}
+            />
+          </div>
+        </div>
       </Layout>
     )
   }
@@ -23,3 +27,17 @@ class IndexPage extends React.Component {
 
 export default IndexPage
 
+export const query = graphql`
+  query {
+    posts: allMarkdownRemark (
+      sort: { fields: [frontmatter___date], order: DESC },
+      filter: {frontmatter: {type: {eq: "post"}}}
+    ) {
+      edges {
+        node {
+          html
+        }
+      }
+    }
+  }
+`

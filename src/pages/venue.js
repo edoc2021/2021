@@ -1,19 +1,20 @@
 import React from "react"
-import Layout from "../../components/layout/layout"
+import Layout from "../components/layout/layout"
 import { Container } from "react-bootstrap"
 import { graphql } from "gatsby"
 
 
-class ImportantDates extends React.Component {
+class Venue extends React.Component {
 
   render() {
 
     const post = this.props.data.post
+    console.log(post)
 
     return (
       <Layout location={this.props.location}>
         <Container>
-          <h1 style={{ color: "#2c4f90" }}>Important Dates</h1>
+          <h1 style={{ color: "#2c4f90" }}>Venue</h1>
           <hr />
           <div
             dangerouslySetInnerHTML={{
@@ -23,16 +24,14 @@ class ImportantDates extends React.Component {
         </Container>
       </Layout>
     )
-
   }
-
 }
 
-export default ImportantDates
+export default Venue
 
 export const query = graphql`
   query {
-    post: markdownRemark(frontmatter: {type: {eq: "important-dates"}}) {
+    post: markdownRemark(frontmatter: {type: {eq: "venue"}}) {
       #    post: markdownRemark(frontmatter: {type: {eq: "empty"}}) {
       id
       html

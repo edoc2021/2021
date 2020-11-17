@@ -1,18 +1,18 @@
 import React from "react"
-import Layout from "../../components/layout/layout"
+import Layout from "../components/layout/layout"
 import { Container } from "react-bootstrap"
 import { graphql } from "gatsby"
 
-
-class CallPaper extends React.Component {
+class CallDemos extends React.Component {
 
   render() {
-
     const post = this.props.data.post
+    console.log(post)
+
     return (
       <Layout location={this.props.location}>
         <Container>
-          <h1 style={{ color: "#2c4f90" }}>Accepted Papers</h1>
+          <h1 style={{ color: "#2c4f90" }}>Call for Demos</h1>
           <hr />
           <div
             dangerouslySetInnerHTML={{
@@ -22,17 +22,15 @@ class CallPaper extends React.Component {
         </Container>
       </Layout>
     )
-
   }
-
 }
 
-export default CallPaper
+export default CallDemos
 
 export const query = graphql`
   query {
-    #    post: markdownRemark(frontmatter: {type: {eq: "accepted-paper"}}) {
-    post: markdownRemark(frontmatter: {type: {eq: "empty"}}) {
+    post: markdownRemark(frontmatter: {type: {eq: "call-demos"}}) {
+      #    post: markdownRemark(frontmatter: {type: {eq: "empty"}}) {
       id
       html
     }
