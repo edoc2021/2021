@@ -1,7 +1,7 @@
 import React from "react"
 import { navigate } from "gatsby"
 import Layout from "../components/layout/layout"
-import Container from "react-bootstrap"
+import { Container } from "react-bootstrap"
 
 class IndexPage extends React.Component {
 
