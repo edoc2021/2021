@@ -8,7 +8,7 @@ module.exports = {
     description: `Provide information about EDOC2021 conference`,
     author: `vuluong@griffithuni.edu.au`
   },
-  pathPrefix: "/EDOC2021SUB",
+  pathPrefix: "/EDOC2021",
   plugins: [
     `gatsby-plugin-react-helmet`,
     {
