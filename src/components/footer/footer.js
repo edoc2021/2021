@@ -1,11 +1,13 @@
 import React from "react"
 import { Link } from "gatsby"
+import FA from 'react-fontawesome'
 
 const Footer = ({ author, title }) => {
   return (
     <div className="footer">
       <div className="container">
         <hr className="border-primary" />
+        <a href="https://www.gatsbyjs.com/" label="button" target="_blank" rel="noopener noreferrer"><FA name="twitter" /></a>
         <p>
           {title}
           <Link to="https://www.gatsbyjs.com/">
