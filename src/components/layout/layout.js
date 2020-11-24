@@ -7,7 +7,6 @@ import "../../scss/gatstrap.scss"
 import { Col, Row } from "react-bootstrap"
 import { Waypoint } from "react-waypoint"
 import { graphql, Link, navigate, StaticQuery } from "gatsby"
-import Helmet from "react-helmet"
 import Img from "gatsby-image"
 import SEO from "../seo"
 
