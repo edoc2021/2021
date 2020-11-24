@@ -9,6 +9,7 @@ import { Waypoint } from "react-waypoint"
 import { graphql, Link, navigate, StaticQuery } from "gatsby"
 import Helmet from "react-helmet"
 import Img from "gatsby-image"
+import SEO from "../seo"
 
 
 class Layout extends React.Component {
@@ -48,7 +49,8 @@ class Layout extends React.Component {
         }
         render={data => (
           <div>
-            <Helmet title="EDOC2021 - The No1 Conference in Enterprise Computing" />
+            {/*<Helmet title="EDOC2021 - The No1 Conference in Enterprise Computing" />*/}
+            <SEO/>
             <span className="logo">
               <Img fluid={data.fileName.childImageSharp.fluid} alt="" />
               {/*<Image src={headerImage} alt="" fluid />*/}
@@ -79,9 +81,9 @@ class Layout extends React.Component {
               onEnter={this._handleWaypointEnter}
               onLeave={this._handleWaypointLeave}
             />
-            <Navibar title={siteMetadata.title} location={this.props.location} sticky={this.state.stickyNav} />
+            <Navibar title={siteMetadata.shortTitle} location={this.props.location} sticky={this.state.stickyNav} />
             {this.props.children}
-            <Footer title={siteMetadata.title} author={siteMetadata.author} />
+            <Footer title={siteMetadata.shortTitle} author={siteMetadata.author} />
           </div>
         )}
       />

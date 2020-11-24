@@ -1,12 +1,18 @@
 require("dotenv").config({
-  path: `.env.${process.env.NODE_ENV}`,
+  path: `.env.${process.env.NODE_ENV}`
 })
 
 module.exports = {
   siteMetadata: {
-    title: `EDOC2021`,
-    description: `Provide information about EDOC2021 conference`,
-    author: `vuluong@griffithuni.edu.au`
+    title: `EDOC2021 - The No1 Conference in Enterprise Computing`,
+    shortTitle: `EDOC2021`,
+    description: `EDOC, a series of IEEE conferences on distributed systems 
+      in and beyond the enterprise, celebrates its 25th anniversary with a 
+      return to Australia’s Gold Coast where it all began in 1997`,
+    author: `vuluong@griffithuni.edu.au`,
+    url: "http://ieee-edoc.org/2021", // No trailing slash allowed!
+    image: "/img/favicon.png", // Path to your image you placed in the 'static' folder
+    twitterUsername: "@ieee_edoc",
   },
   pathPrefix: "/2021",
   plugins: [
@@ -68,9 +74,9 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: `${process.env.GA_TRACKING_ID}`,
+        trackingId: `${process.env.GA_TRACKING_ID}`
       }
-    },
+    }
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
