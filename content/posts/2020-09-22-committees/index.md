@@ -44,7 +44,6 @@ Anh Vu Luong (Griffith University, Australia)
 João Paulo A. Almeida (Federal University of Espírito Santo, Brazil)
 
 **Regional Publicity Chairs**<br/>
-Georg Grossman (University of South Australia, Australia)<br/>
 Sylvain Hallé (Université du Québec à Chicoutimi, Canada)<br/>
 Lam-Son Lê (HCMC Tech, Vietnam)<br/>
 Akira Tanaka (view5 LLC, Japan)<br/>
