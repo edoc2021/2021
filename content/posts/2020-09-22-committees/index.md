@@ -30,6 +30,10 @@ Karolin Winter (University of Vienna, Austria)
 Said Assar (Institut Mines Telecom Business School, France)<br/>
 Fethi Rabhi (University of New South Wales, Australia)
 
+**Industry Panel Chairs**<br/>
+Amir Aryani (Swinburne University of Technology, Australia)<br/>
+Shazia Sadiq (The University of Queensland, Australia)
+
 **Organisation Chair**<br/>
 Sharmistha Dey (Griffith University, Australia)
 
@@ -43,6 +47,7 @@ João Paulo A. Almeida (Federal University of Espírito Santo, Brazil)
 Georg Grossman (University of South Australia, Australia)<br/>
 Sylvain Hallé (Université du Québec à Chicoutimi, Canada)<br/>
 Lam-Son Lê (HCMC Tech, Vietnam)<br/>
+Akira Tanaka (view5 LLC, Japan)<br/>
 Karolin Winter (University of Vienna, Austria)<br/>
 Benjamin Yen (University of Hong Kong, Hong Kong)
 
@@ -72,8 +77,10 @@ Andrew Berry (Resmed, Australia)<br/>
 Andy Bond (QUT/Genie, Australia)<br/>
 Ruth Breu (Research Group Quality Engineering, Italy)<br/>
 Claudio Di Ciccio (Sapienza University of Rome, Italy)<br/>
+Remco Dijkman (Eindhoven University of Technology, Netherlands)<br/>
 Keith Duddy (S23M, Australia)<br/>
 Schahram Dustdar (Vienna University of Technology, Austria)<br/>
+Vladimir Estivill-Castro (Universitat Pompeu Fabra, Spain)<br/>
 Chiara Di Francescomarino (Fondazione Bruno Kessler-IRST, Italy)<br/>
 Ulrik Franke (RISE, Sweden)<br/>
 Aniruddha Gokhale (Vanderbilt University, United States)<br/>
@@ -103,6 +110,7 @@ Florian Matthes (Technical University of Munich, Germany)<br/>
 Wolfgang Mayer (University of South Australia, Australia)<br/>
 Zoran Milosevic (Deontik, Australia)<br/>
 Tam C. Nguyen (Melbourne Medical School/St Vincent’s Hospital Melbourne, Australia)<br/>
+Selmin Nurcan (University Paris 1 Pantheon Sorbonne, France)<br/>
 Andreas L Opdahl (University of Bergen, Norway)<br/>
 Hye-Young Paik (The University of New South Wales, Australia)<br/>
 Dana Petcu (West University of Timisoara, Romania)<br/>
@@ -124,6 +132,7 @@ Marten van Sinderen (University of Twente, Netherlands)<br/>
 Sagar Sunkle (Tata Consultancy Services, India)<br/>
 Stefan Tai (TU Berlin, Germany)<br/>
 Pankaj Telang (SAS Institute Inc., United States)<br/>
+Antonio Vallecillo (Universidad de Málaga, Spain)<br/>
 Mathias Weske (HPI, University of Potsdam, Germany)<br/>
 Benjamin Yen (University of Hong Kong, HK)<br/>
 Uwe Zdun (University of Vienna, Austria)<br/>
