@@ -14,21 +14,21 @@ Alan Wee-Chung Liew (Griffith University, Australia)<br/>
 Zoran Milosevic (Deontik/Griffith University, Australia)
 
 **Program Committee Chairs**<br/>
-Giancarlo Guizzardi (Free University of Bozen-Bolzano, Italy)<br/>
-Peter Bernus (Griffith University, Australia)
+Peter Bernus (Griffith University, Australia)<br/>
+Giancarlo Guizzardi (Free University of Bozen-Bolzano, Italy)
 
 **Workshop Chairs**<br/>
 Dimka Karastoyanova (University of Groningen, Netherlands)<br/>
 Luise Pufahl (TU Berlin, Germany) 
 
 **Demo Track Chairs**<br/>
+Keith Duddy (S23M, Australia)<br/>
 Chiara Di Francescomarino (Fondazione Bruno Kessler-IRST, Italy)<br/>
-Karolin Winter (University of Vienna, Austria)<br/>
-Keith Duddy (S23M, Australia)
+Karolin Winter (University of Vienna, Austria)
 
 **Doctoral Consortium Chairs**<br/>
-Fethi Rabhi, (University of New South Wales, Australia)<br/>
-Said Assar (Institut Mines Telecom Business School, France)
+Said Assar (Institut Mines Telecom Business School, France)<br/>
+Fethi Rabhi (University of New South Wales, Australia)
 
 **Organisation Chair**<br/>
 Sharmistha Dey (Griffith University, Australia)
@@ -40,11 +40,11 @@ Anh Vu Luong (Griffith University, Australia)
 João Paulo A. Almeida (Federal University of Espírito Santo, Brazil)
 
 **Regional Publicity Chairs**<br/>
-Benjamin Yen (University of Hong Kong, Hong Kong)<br/>
 Georg Grossman (University of South Australia, Australia)<br/>
-Karolin Winter (University of Vienna, Austria)<br/>
+Sylvain Hallé (Université du Québec à Chicoutimi, Canada)<br/>
 Lam-Son Lê (HCMC Tech, Vietnam)<br/>
-Sylvain Hallé (Université du Québec à Chicoutimi, Canada)
+Karolin Winter (University of Vienna, Austria)<br/>
+Benjamin Yen (University of Hong Kong, Hong Kong)
 
 <h2 style="color: #3771ad">Steering Committee</h2>
 
@@ -52,98 +52,98 @@ Sylvain Hallé (Université du Québec à Chicoutimi, Canada)
 Georg Grossmann (University of South Australia, Australia)<br/>
 
 **Members**<br/>
-Colin Atkinson (University of Mannheim, Germany)<br/>
 João Paulo A. Almeida (Federal University of Espírito Santo, Brazil)<br/>
-Marten van Sinderen (University of Twente, Netherlands)<br/>
+Colin Atkinson (University of Mannheim, Germany)<br/>
 Remco Dijkman (Eindhoven University of Technology, Netherlands)<br/>
+Sylvain Hallé (Université du Québec à Chicoutimi, Canada)<br/>
 Robert Lagerström (KTH Royal Institute of Technology, Sweden)<br/>
+Zoran Milosevic (Deontik, Australia)<br/>
 Selmin Nurcan (University Paris 1 Pantheon Sorbonne, France)<br/>
 Stefanie Rinderle-Ma (University of Vienna, Austria)<br/>
-Sylvain Hallé (Université du Québec à Chicoutimi, Canada)<br/>
-Zoran Milosevic (Deontik, Australia)
+Marten van Sinderen (University of Twente, Netherlands)
 
 <h2 style="color: #3771ad">Program Committee</h2>
 
-Alexander Knapp (Universität Augsburg, Germany)<br/>
-Alfred Zimmermann (Reutlingen University, Germany)<br/>
-Amin Beheshti (Macquarie University, Australia)<br/>
-Andreas L Opdahl (University of Bergen, Norway)<br/>
-Andrew Berry (Resmed, Australia)<br/>
-Andy Bond (QUT/Genie, Australia)<br/>
-Aniruddha Gokhale (Vanderbilt University, United States)<br/>
-Artem Polyvyanyy (The University of Melbourne, Australia)<br/>
-Benjamin Yen (University of Hong Kong, HK)<br/>
-Chiara Di Francescomarino (Fondazione Bruno Kessler-IRST, Italy)<br/>
-Christian Zirpins (Karlsruhe University of Applied Sciences, Germany)<br/>
-Claudio Di Ciccio (Sapienza University of Rome, Italy)<br/>
-Colin Atkinson (University of Mannheim, Germany)<br/>
-Dana Petcu (West University of Timisoara, Romania)<br/>
-Dimka Karastoyanova (University of Groningen, Netherlands)<br/>
-Fethi Rabhi, (University of New South Wales, Australia)<br/>
-Flavia Santoro (UERJ, Brazil)<br/>
-Florian Matthes (Technical University of Munich, Germany)<br/>
-Frank Leymann (University of Stuttgart, Germany)<br/>
-Georg Grossmann (University of South Australia, Australia)<br/>
-Giancarlo Guizzardi (Federal University of Espirito Santo, Brazil)<br/>
-Giuseppe Di Lucca (University of Sannio, Italy)<br/>
-Guido Governatori (CSIRO, Australia)<br/>
-Henderik Proper (Luxembourg Institute of Science and Technology, Luxembourg)<br/>
-Hye-Young Paik (The University of New South Wales, Australia)<br/>
-Irina Rychkova (University Paris 1 Pantheon Sorbonne, University)<br/>
 Jan Øyvind Aagedal (Equatex, Norway)<br/>
 João Paulo A. Almeida (Federal University of Espírito Santo, Brazil)<br/>
-Jochen Küster (FH Bielefeld, Germany)<br/>
-José Raúl Romero (University of Cordoba, Spain)<br/>
-Julius Köpke (Alpen-Adria-Universität Klagenfurt Institute for Informatics Systems, Austria)<br/>
-Jun Han (Swinburne University of Technology, Australia)<br/>
-Keith Duddy (S23M, Australia)<br/>
-Lam Son Lê (HCMC Tech, Vietnam)<br/>
-Luís Ferreira Pires (University of Twente, Netherlands)<br/>
-Maria Teresa Gómez López (University of Seville, Spain)<br/>
-Maria-Eugenia Iacob (University of Twente, Netherlands)<br/>
-Marten van Sinderen (University of Twente, Netherlands)<br/>
-Mathias Weske (HPI, University of Potsdam, Germany)<br/>
-Michael Schrefl (Johannes Kepler University Linz, Austria)<br/>
-Michael Sheng (Macquarie University, Australia)<br/>
-Nhan (Nathan) Tri Luong (Google, UK)<br/>
-Nicolas Herbaut (University Paris 1 Pantheon Sorbonne, France)<br/>
-Pankaj Telang (SAS Institute Inc., United States)<br/>
-Peter F. Linington (University of Kent, United Kingdom)<br/>
-Pontus Johnson (KTH Royal Institute of Technology, Sweden)<br/>
-Rainer Schmidt (Munich University of Applied Sciences, Germany)<br/>
-Rajeev Raje (IUPUI, United States)<br/>
-Robert Lagerström (KTH Royal Institute of Technology, Sweden)<br/>
+Colin Atkinson (University of Mannheim, Germany)<br/>
+Amin Beheshti (Macquarie University, Australia)<br/>
+Andrew Berry (Resmed, Australia)<br/>
+Andy Bond (QUT/Genie, Australia)<br/>
 Ruth Breu (Research Group Quality Engineering, Italy)<br/>
-Sagar Sunkle (Tata Consultancy Services, India)<br/>
+Claudio Di Ciccio (Sapienza University of Rome, Italy)<br/>
+Keith Duddy (S23M, Australia)<br/>
 Schahram Dustdar (Vienna University of Technology, Austria)<br/>
-Simon Hacks (KTH, Sweden, Sweden)<br/>
-Stefan Schulte (Vienna University of Technology, Austria)<br/>
-Stefan Tai (TU Berlin, Germany)<br/>
-Stefanie Rinderle-Ma (University of Vienna, Austria)<br/>
-Sylvain Hallé (Université du Québec à Chicoutimi, Canada)<br/>
-Tam C. Nguyen (Melbourne Medical School/St Vincent's Hospital Melbourne, Australia)<br/>
-Tiago Prince Sales (Free University of Bozen-Bolzano, Italy)<br/>
+Chiara Di Francescomarino (Fondazione Bruno Kessler-IRST, Italy)<br/>
 Ulrik Franke (RISE, Sweden)<br/>
-Uwe Zdun (University of Vienna, Austria)<br/>
-Vinay Kulkarni (Tata Consultancy Services Research, India)<br/>
-Wolfgang Mayer (University of South Australia, Australia)<br/>
+Aniruddha Gokhale (Vanderbilt University, United States)<br/>
+Guido Governatori (CSIRO, Australia)<br/>
+Georg Grossmann (University of South Australia, Australia)<br/>
+Giancarlo Guizzardi (Federal University of Espirito Santo, Brazil)<br/>
+Simon Hacks (KTH, Sweden, Sweden)<br/>
+Sylvain Hallé (Université du Québec à Chicoutimi, Canada)<br/>
+Jun Han (Swinburne University of Technology, Australia)<br/>
+Nicolas Herbaut (University Paris 1 Pantheon Sorbonne, France)<br/>
 Yigal Hoffner (Shenkar College of Engineering and Design, Israel)<br/>
-Zoran Milosevic (Deontik, Australia)
+Maria-Eugenia Iacob (University of Twente, Netherlands)<br/>
+Pontus Johnson (KTH Royal Institute of Technology, Sweden)<br/>
+Dimka Karastoyanova (University of Groningen, Netherlands)<br/>
+Alexander Knapp (Universität Augsburg, Germany)<br/>
+Vinay Kulkarni (Tata Consultancy Services Research, India)<br/>
+Julius Köpke (Alpen-Adria-Universität Klagenfurt Institute for Informatics Systems, Austria)<br/>
+Jochen Küster (FH Bielefeld, Germany)<br/>
+Robert Lagerström (KTH Royal Institute of Technology, Sweden)<br/>
+Frank Leymann (University of Stuttgart, Germany)<br/>
+Peter F. Linington (University of Kent, United Kingdom)<br/>
+Giuseppe Di Lucca (University of Sannio, Italy)<br/>
+Nhan (Nathan) Tri Luong (Google, UK)<br/>
+Lam Son Lê (HCMC Tech, Vietnam)<br/>
+Maria Teresa Gómez López (University of Seville, Spain)<br/>
+Florian Matthes (Technical University of Munich, Germany)<br/>
+Wolfgang Mayer (University of South Australia, Australia)<br/>
+Zoran Milosevic (Deontik, Australia)<br/>
+Tam C. Nguyen (Melbourne Medical School/St Vincent’s Hospital Melbourne, Australia)<br/>
+Andreas L Opdahl (University of Bergen, Norway)<br/>
+Hye-Young Paik (The University of New South Wales, Australia)<br/>
+Dana Petcu (West University of Timisoara, Romania)<br/>
+Luís Ferreira Pires (University of Twente, Netherlands)<br/>
+Artem Polyvyanyy (The University of Melbourne, Australia)<br/>
+Henderik Proper (Luxembourg Institute of Science and Technology, Luxembourg)<br/>
+Fethi Rabhi, (University of New South Wales, Australia)<br/>
+Rajeev Raje (IUPUI, United States)<br/>
+Stefanie Rinderle-Ma (University of Vienna, Austria)<br/>
+José Raúl Romero (University of Cordoba, Spain)<br/>
+Irina Rychkova (University Paris 1 Pantheon Sorbonne, University)<br/>
+Tiago Prince Sales (Free University of Bozen-Bolzano, Italy)<br/>
+Flavia Santoro (UERJ, Brazil)<br/>
+Rainer Schmidt (Munich University of Applied Sciences, Germany)<br/>
+Michael Schrefl (Johannes Kepler University Linz, Austria)<br/>
+Stefan Schulte (Vienna University of Technology, Austria)<br/>
+Michael Sheng (Macquarie University, Australia)<br/>
+Marten van Sinderen (University of Twente, Netherlands)<br/>
+Sagar Sunkle (Tata Consultancy Services, India)<br/>
+Stefan Tai (TU Berlin, Germany)<br/>
+Pankaj Telang (SAS Institute Inc., United States)<br/>
+Mathias Weske (HPI, University of Potsdam, Germany)<br/>
+Benjamin Yen (University of Hong Kong, HK)<br/>
+Uwe Zdun (University of Vienna, Austria)<br/>
+Alfred Zimmermann (Reutlingen University, Germany)<br/>
+Christian Zirpins (Karlsruhe University of Applied Sciences, Germany)
 
 <h2 style="color: #3771ad">Demo Program Committee</h2>
 
+João Paulo A. Almeida (Federal University of Espírito Santo, Brazil)<br/>
 Amin Beheshti (Macquarie University, Australia)<br/>
-Benjamin Yen (University of Hong Kong, Hong Kong)<br/>
+Ruth Breu (Research Group Quality Engineering, Austria)<br/>
+Johann Eder (University of Klagenfurt, Austria)<br/>
 Chiara Di Francescomarino (Fondazione Bruno Kessler-IRST, Italy)<br/>
-Daniel Ritter (SAP Germany, Germany)<br/>
-Florian Matthes (Technical University of Munich, Germany)<br/>
 Georg Grossmann (University of South Australia, Australia)<br/>
 Giancarlo Guizzardi (Federal University of Espirito Santo, Brazil)<br/>
 Jens Gulden (University of Duisburg-Essen, Germany)<br/>
-João Paulo A. Almeida (Federal University of Espírito Santo, Brazil)<br/>
-Johann Eder (University of Klagenfurt, Austria)<br/>
-Luis Ferreira Pires (University of Twente, Netherlands)<br/>
+Florian Matthes (Technical University of Munich, Germany)<br/>
 Marco Montali (Free University of Bozen-Bolzano, Italy)<br/>
+Selmin Nurcan (Université Paris 1 Panthéon-Sorbonne, France)<br/>
+Luis Ferreira Pires (University of Twente, Netherlands)<br/>
+Daniel Ritter (SAP Germany, Germany)<br/>
 Michael Sheng (Macquarie University, Australia)<br/>
-Ruth Breu (Research Group Quality Engineering, Austria)<br/>
-Selmin Nurcan (Université Paris 1 Panthéon-Sorbonne, France)
+Benjamin Yen (University of Hong Kong, Hong Kong)
