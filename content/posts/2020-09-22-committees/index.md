@@ -46,6 +46,7 @@ João Paulo A. Almeida (Federal University of Espírito Santo, Brazil)
 **Regional Publicity Chairs**<br/>
 Sylvain Hallé (Université du Québec à Chicoutimi, Canada)<br/>
 Lam-Son Lê (HCMC Tech, Vietnam)<br/>
+Christine Stephenson (Penrod Consulting, Australia)<br/>
 Akira Tanaka (view5 LLC, Japan)<br/>
 Karolin Winter (University of Vienna, Austria)<br/>
 Benjamin Yen (University of Hong Kong, Hong Kong)
@@ -83,6 +84,7 @@ Vladimir Estivill-Castro (Universitat Pompeu Fabra, Spain)<br/>
 Chiara Di Francescomarino (Fondazione Bruno Kessler-IRST, Italy)<br/>
 Ulrik Franke (RISE, Sweden)<br/>
 Aniruddha Gokhale (Vanderbilt University, United States)<br/>
+Ian Gorton (Northeastern University, USA)<br/>
 Guido Governatori (CSIRO, Australia)<br/>
 Georg Grossmann (University of South Australia, Australia)<br/>
 Giancarlo Guizzardi (Federal University of Espirito Santo, Brazil)<br/>
@@ -108,6 +110,8 @@ Maria Teresa Gómez López (University of Seville, Spain)<br/>
 Florian Matthes (Technical University of Munich, Germany)<br/>
 Wolfgang Mayer (University of South Australia, Australia)<br/>
 Zoran Milosevic (Deontik, Australia)<br/>
+Hiroshi Miyazaki (Keio University, Japan)<br/>
+Marco Montali (Free University of Bozen-Bolzano, Italy)<br/>
 Tam C. Nguyen (Melbourne Medical School/St Vincent’s Hospital Melbourne, Australia)<br/>
 Selmin Nurcan (University Paris 1 Pantheon Sorbonne, France)<br/>
 Andreas L Opdahl (University of Bergen, Norway)<br/>
@@ -155,3 +159,5 @@ Luis Ferreira Pires (University of Twente, Netherlands)<br/>
 Daniel Ritter (SAP Germany, Germany)<br/>
 Michael Sheng (Macquarie University, Australia)<br/>
 Benjamin Yen (University of Hong Kong, Hong Kong)
+
+(Lists being updated)
