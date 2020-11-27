@@ -160,4 +160,4 @@ Daniel Ritter (SAP Germany, Germany)<br/>
 Michael Sheng (Macquarie University, Australia)<br/>
 Benjamin Yen (University of Hong Kong, Hong Kong)
 
-(Lists being updated)
+<h3 style="color: #D9780F">* The lists above are updated as committees are finalised</h3>
