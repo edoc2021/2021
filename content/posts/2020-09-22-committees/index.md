@@ -81,7 +81,6 @@ Remco Dijkman (Eindhoven University of Technology, Netherlands)<br/>
 Keith Duddy (S23M, Australia)<br/>
 Schahram Dustdar (Vienna University of Technology, Austria)<br/>
 Vladimir Estivill-Castro (Universitat Pompeu Fabra, Spain)<br/>
-Chiara Di Francescomarino (Fondazione Bruno Kessler-IRST, Italy)<br/>
 Ulrik Franke (RISE, Sweden)<br/>
 Aniruddha Gokhale (Vanderbilt University, United States)<br/>
 Ian Gorton (Northeastern University, USA)<br/>
