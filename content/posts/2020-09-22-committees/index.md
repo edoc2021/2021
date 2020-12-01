@@ -96,6 +96,7 @@ Maria-Eugenia Iacob (University of Twente, Netherlands)<br/>
 Pontus Johnson (KTH Royal Institute of Technology, Sweden)<br/>
 Dimka Karastoyanova (University of Groningen, Netherlands)<br/>
 Alexander Knapp (Universität Augsburg, Germany)<br/>
+Axel Korthaus (Swinburne University, Australia)<br/>
 Vinay Kulkarni (Tata Consultancy Services Research, India)<br/>
 Julius Köpke (Alpen-Adria-Universität Klagenfurt Institute for Informatics Systems, Austria)<br/>
 Jochen Küster (FH Bielefeld, Germany)<br/>

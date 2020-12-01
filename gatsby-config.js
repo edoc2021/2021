@@ -6,16 +6,16 @@ module.exports = {
   siteMetadata: {
     title: `EDOC2021 - The No1 Conference in Enterprise Computing`,
     shortTitle: `EDOC2021`,
-    description: `EDOC, a series of IEEE conferences on distributed systems 
-      in and beyond the enterprise, celebrates its 25th anniversary with a 
-      return to Australia’s Gold Coast where it all began in 1997`,
+    description: `EDOC, a series of IEEE conferences on distributed systems in and beyond the enterprise, celebrates its 25th anniversary with a return to Australia’s Gold Coast where it all began in 1997`,
     author: `vuluong@griffithuni.edu.au`,
-    url: "http://ieee-edoc.org/2021", // No trailing slash allowed!
-    image: "/img/favicon.png", // Path to your image you placed in the 'static' folder
+    url: "http://ieee-edoc.org", // No trailing slash allowed!
+    image: "/2021/img/favicon.png", // Path to your image you placed in the 'static' folder
     twitterUsername: "@ieee_edoc",
+    siteUrl: `http://ieee-edoc.org`
   },
   pathPrefix: "/2021",
   plugins: [
+    `gatsby-plugin-sitemap`,
     `gatsby-plugin-react-helmet`,
     {
       resolve: `gatsby-source-filesystem`,
