@@ -81,11 +81,18 @@ Remco Dijkman (Eindhoven University of Technology, Netherlands)<br/>
 Keith Duddy (S23M, Australia)<br/>
 Schahram Dustdar (Vienna University of Technology, Austria)<br/>
 Vladimir Estivill-Castro (Universitat Pompeu Fabra, Spain)<br/>
+Chiara Di Francescomarino (Fondazione Bruno Kessler-IRST, Italy)<br/>
+Ulrich Frank (University of Duisburg Essen, Germany)<br/>
 Ulrik Franke (RISE, Sweden)<br/>
+Mattia Fumagalli (Free University of Bozen-Bolzano, Italy)<br/>
+Frederik Gailly (Ghent University,Belgium)<br/>
 Aniruddha Gokhale (Vanderbilt University, United States)<br/>
+Jaap Gordijn (Free University of Amsterdam, The Netherlands)<br/>
 Ian Gorton (Northeastern University, USA)<br/>
 Guido Governatori (CSIRO, Australia)<br/>
+Cristine Griffo (Free University of Bozen-Bolzano, Italy)<br/>
 Georg Grossmann (University of South Australia, Australia)<br/>
+Renata Guizzardi (University of Twente, The Netherlands)<br/>
 Giancarlo Guizzardi (Federal University of Espirito Santo, Brazil)<br/>
 Simon Hacks (KTH, Sweden, Sweden)<br/>
 Sylvain Hallé (Université du Québec à Chicoutimi, Canada)<br/>
@@ -107,11 +114,14 @@ Giuseppe Di Lucca (University of Sannio, Italy)<br/>
 Nhan (Nathan) Tri Luong (Google, UK)<br/>
 Lam Son Lê (HCMC Tech, Vietnam)<br/>
 Maria Teresa Gómez López (University of Seville, Spain)<br/>
+Wolfgang Maas (University of Saarlandes, Germany)<br/>
 Florian Matthes (Technical University of Munich, Germany)<br/>
 Wolfgang Mayer (University of South Australia, Australia)<br/>
 Zoran Milosevic (Deontik, Australia)<br/>
 Hiroshi Miyazaki (Keio University, Japan)<br/>
 Marco Montali (Free University of Bozen-Bolzano, Italy)<br/>
+João Moreira (University of Twente, The Netherlands)<br/>
+John Mylopoulos (University of Ottawa, Canada)<br/>
 Tam C. Nguyen (Melbourne Medical School/St Vincent’s Hospital Melbourne, Australia)<br/>
 Selmin Nurcan (University Paris 1 Pantheon Sorbonne, France)<br/>
 Andreas L Opdahl (University of Bergen, Norway)<br/>
@@ -122,7 +132,9 @@ Artem Polyvyanyy (The University of Melbourne, Australia)<br/>
 Henderik Proper (Luxembourg Institute of Science and Technology, Luxembourg)<br/>
 Fethi Rabhi, (University of New South Wales, Australia)<br/>
 Rajeev Raje (IUPUI, United States)<br/>
+Jan Recker (University of Cologne, Germany)<br/>
 Stefanie Rinderle-Ma (University of Vienna, Austria)<br/>
+Ben Roelens (Open University, The Netherlands)<br/>
 José Raúl Romero (University of Cordoba, Spain)<br/>
 Irina Rychkova (University Paris 1 Pantheon Sorbonne, University)<br/>
 Tiago Prince Sales (Free University of Bozen-Bolzano, Italy)<br/>
@@ -136,6 +148,7 @@ Sagar Sunkle (Tata Consultancy Services, India)<br/>
 Stefan Tai (TU Berlin, Germany)<br/>
 Pankaj Telang (SAS Institute Inc., United States)<br/>
 Antonio Vallecillo (Universidad de Málaga, Spain)<br/>
+Hans Weigand (Tilburg University, The Netherlands)<br/>
 Mathias Weske (HPI, University of Potsdam, Germany)<br/>
 Benjamin Yen (University of Hong Kong, HK)<br/>
 Uwe Zdun (University of Vienna, Austria)<br/>
@@ -148,7 +161,6 @@ João Paulo A. Almeida (Federal University of Espírito Santo, Brazil)<br/>
 Amin Beheshti (Macquarie University, Australia)<br/>
 Ruth Breu (Research Group Quality Engineering, Austria)<br/>
 Johann Eder (University of Klagenfurt, Austria)<br/>
-Chiara Di Francescomarino (Fondazione Bruno Kessler-IRST, Italy)<br/>
 Georg Grossmann (University of South Australia, Australia)<br/>
 Giancarlo Guizzardi (Federal University of Espirito Santo, Brazil)<br/>
 Jens Gulden (University of Duisburg-Essen, Germany)<br/>
