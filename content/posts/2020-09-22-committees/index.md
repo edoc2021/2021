@@ -92,8 +92,8 @@ Ian Gorton (Northeastern University, USA)<br/>
 Guido Governatori (CSIRO, Australia)<br/>
 Cristine Griffo (Free University of Bozen-Bolzano, Italy)<br/>
 Georg Grossmann (University of South Australia, Australia)<br/>
-Renata Guizzardi (University of Twente, The Netherlands)<br/>
 Giancarlo Guizzardi (Federal University of Espirito Santo, Brazil)<br/>
+Renata Guizzardi (University of Twente, The Netherlands)<br/>
 Simon Hacks (KTH, Sweden, Sweden)<br/>
 Sylvain Hallé (Université du Québec à Chicoutimi, Canada)<br/>
 Jun Han (Swinburne University of Technology, Australia)<br/>
@@ -133,9 +133,11 @@ Henderik Proper (Luxembourg Institute of Science and Technology, Luxembourg)<br/
 Fethi Rabhi, (University of New South Wales, Australia)<br/>
 Rajeev Raje (IUPUI, United States)<br/>
 Jan Recker (University of Cologne, Germany)<br/>
+Manfred Reichert (University of Ulm, Germany)<br/>
 Stefanie Rinderle-Ma (University of Vienna, Austria)<br/>
 Ben Roelens (Open University, The Netherlands)<br/>
 José Raúl Romero (University of Cordoba, Spain)<br/>
+Michael Rosemann (QUT, Australia)<br/>
 Irina Rychkova (University Paris 1 Pantheon Sorbonne, University)<br/>
 Tiago Prince Sales (Free University of Bozen-Bolzano, Italy)<br/>
 Flavia Santoro (UERJ, Brazil)<br/>
@@ -148,6 +150,7 @@ Sagar Sunkle (Tata Consultancy Services, India)<br/>
 Stefan Tai (TU Berlin, Germany)<br/>
 Pankaj Telang (SAS Institute Inc., United States)<br/>
 Antonio Vallecillo (Universidad de Málaga, Spain)<br/>
+Barbara Weber (University of St. Gallen, Switzerland)<br/>
 Hans Weigand (Tilburg University, The Netherlands)<br/>
 Mathias Weske (HPI, University of Potsdam, Germany)<br/>
 Benjamin Yen (University of Hong Kong, HK)<br/>
