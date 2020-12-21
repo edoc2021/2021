@@ -4,11 +4,15 @@ import { siteMetadata } from "../../../gatsby-config"
 import Footer from "../footer/footer"
 
 import "../../scss/gatstrap.scss"
-import { Col, Row } from "react-bootstrap"
+import { Image, Col, Row } from "react-bootstrap"
 import { Waypoint } from "react-waypoint"
 import { graphql, Link, navigate, StaticQuery } from "gatsby"
 import Img from "gatsby-image"
 import SEO from "../seo"
+import logoImage from "../../../content/images/logo.png"
+import griffithLogo from "../../../content/images/griffith_brand.png"
+import desGC from "../../../content/images/destination_gc.png"
+import digitalTwin from "../../../content/images/digital_twin.png"
 
 
 class Layout extends React.Component {
@@ -49,32 +53,105 @@ class Layout extends React.Component {
         render={data => (
           <div>
             {/*<Helmet title="EDOC2021 - The No1 Conference in Enterprise Computing" />*/}
-            <SEO/>
-            <span className="logo">
-              <Img fluid={data.fileName.childImageSharp.fluid} alt="" />
-              {/*<Image src={headerImage} alt="" fluid />*/}
-            </span>
-            <header id="header" className="container" style={{
+            <SEO />
+            <div id="header" style={{
               position: "relative",
               top: 0
             }}>
+              <span className="logo">
+                <Img fluid={data.fileName.childImageSharp.fluid} alt="" />
+                {/*<Image src={headerImage} alt="" fluid />*/}
+              </span>
               <Row style={{
                 position: "absolute",
-                bottom: 0,
+                bottom: 5,
                 width: "100%",
-                height: "90%"
+                height: "100%"
               }}>
-                <Col>
+                <Col style={{}}>
                   <Link to="/">
-                    {/*<Image*/}
-                    {/*  src={logoImage} alt="" fluid />*/}
+                    <Image
+                      style={{
+                        padding: "12pt"
+                      }}
+                      src={logoImage} alt="" fluid />
                   </Link>
                 </Col>
                 <Col />
                 <Col />
               </Row>
 
-            </header>
+              <Row style={{
+                position: "absolute",
+                top: "76%",
+                width: "103%",
+                height: "22%"
+              }}>
+                <Col>
+                  <Link to="https://www.destinationgoldcoast.com/"
+                        style={{
+                          marginLeft: "3.2%"
+                        }}>
+                    <Image
+                      style={{
+                        width: "9.6%"
+                      }}
+                      src={desGC} alt="" fluid />
+                  </Link>
+                  <Link to="https://www.griffith.edu.au/"
+                        style={{
+                          marginLeft: "1.6%"
+                        }}
+                  >
+                    <Image
+                      style={{
+                        width: "9.6%"
+                      }}
+                      src={griffithLogo} alt="" fluid />
+                  </Link>
+                  <Link to="https://www.digitaltwinconsortium.org/"
+                        style={{
+                          marginLeft: "63.7%",
+                        }}>
+                    <Image
+                      style={{
+                        width: "9.6%"
+                      }}
+                      src={digitalTwin} alt="" fluid />
+                  </Link>
+                </Col>
+              </Row>
+
+              {/*<Row style={{*/}
+              {/*  position: "absolute",*/}
+              {/*  top: "76%",*/}
+              {/*  width: "103%",*/}
+              {/*  height: "22%"*/}
+              {/*}}>*/}
+              {/*  <Col>*/}
+              {/*  </Col>*/}
+              {/*</Row>*/}
+              {/*<Row style={{*/}
+              {/*  position: "absolute",*/}
+              {/*  top: "76%",*/}
+              {/*  width: "103%",*/}
+              {/*  height: "22%"*/}
+              {/*}}>*/}
+              {/*  <Col>*/}
+              {/*    <Link to="https://www.digitaltwinconsortium.org/"*/}
+              {/*          style={{*/}
+              {/*            marginLeft: "87.5%"*/}
+              {/*          }}>*/}
+              {/*      <Image*/}
+              {/*        style={{*/}
+              {/*          width: "9.6%"*/}
+              {/*        }}*/}
+              {/*        src={digitalTwin} alt="" fluid />*/}
+              {/*    </Link>*/}
+              {/*  </Col>*/}
+              {/*</Row>*/}
+
+            </div>
             <Waypoint
               invisible
               onEnter={this._handleWaypointEnter}

@@ -18,6 +18,7 @@ Peter Bernus (Griffith University, Australia)<br/>
 Giancarlo Guizzardi (Free University of Bozen-Bolzano, Italy)
 
 **Workshop Chairs**<br/>
+Asif Gill (University of Technology Sydney, Australia)<br/>
 Dimka Karastoyanova (University of Groningen, Netherlands)<br/>
 Luise Pufahl (TU Berlin, Germany) 
 
@@ -144,7 +145,6 @@ Tiago Prince Sales (Free University of Bozen-Bolzano, Italy)<br/>
 Flavia Santoro (UERJ, Brazil)<br/>
 Rainer Schmidt (Munich University of Applied Sciences, Germany)<br/>
 Michael Schrefl (Johannes Kepler University Linz, Austria)<br/>
-Stefan Schulte (Vienna University of Technology, Austria)<br/>
 Michael Sheng (Macquarie University, Australia)<br/>
 Marten van Sinderen (University of Twente, Netherlands)<br/>
 Sagar Sunkle (Tata Consultancy Services, India)<br/>

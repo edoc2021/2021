@@ -38,7 +38,8 @@ class HoverDropdown extends React.Component {
                    show={this.state.show}
                    style={{
                      marginLeft: 0,
-                     marginRight: 4
+                     marginRight: 4,
+                     fontSize: 18
                    }}
       >
         {this.props.children}

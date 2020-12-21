@@ -11,7 +11,7 @@ class IndexPage extends React.Component {
       <Layout location={this.props.location}>
         <div className="article">
           <div className="container">
-            <h1 style={{ color: "#2c4f90" }}>EDOC2021</h1>
+            <h1 style={{ color: "#2c4f90" }}>IEEE EDOC2021</h1>
             <div
               dangerouslySetInnerHTML={{
                 __html: posts.edges[0].node.html || ""
