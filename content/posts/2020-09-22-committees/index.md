@@ -15,7 +15,8 @@ Zoran Milosevic (Deontik/Griffith University, Australia)
 
 **Program Committee Chairs**<br/>
 Peter Bernus (Griffith University, Australia)<br/>
-Giancarlo Guizzardi (Free University of Bozen-Bolzano, Italy)
+Giancarlo Guizzardi (Free University of Bozen-Bolzano, Italy)<br/>
+Dian Tjondronegoro (Griffith University, Australia)
 
 **Workshop Chairs**<br/>
 Asif Gill (University of Technology Sydney, Australia)<br/>
@@ -87,6 +88,7 @@ Ulrich Frank (University of Duisburg Essen, Germany)<br/>
 Ulrik Franke (RISE, Sweden)<br/>
 Mattia Fumagalli (Free University of Bozen-Bolzano, Italy)<br/>
 Frederik Gailly (Ghent University,Belgium)<br/>
+Aditya Ghose (University of Wollongong)<br/>
 Aniruddha Gokhale (Vanderbilt University, United States)<br/>
 Jaap Gordijn (Free University of Amsterdam, The Netherlands)<br/>
 Ian Gorton (Northeastern University, USA)<br/>
@@ -176,4 +178,4 @@ Daniel Ritter (SAP Germany, Germany)<br/>
 Michael Sheng (Macquarie University, Australia)<br/>
 Benjamin Yen (University of Hong Kong, Hong Kong)
 
-<h3 style="color: #D9780F">* The lists above are updated as committees are finalised</h3>
+<h3 style="color: #D9780F">* The lists above are in alphabetic order and are being updated as committees are finalised</h3>

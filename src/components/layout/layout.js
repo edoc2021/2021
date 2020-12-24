@@ -4,7 +4,7 @@ import { siteMetadata } from "../../../gatsby-config"
 import Footer from "../footer/footer"
 
 import "../../scss/gatstrap.scss"
-import { Image, Col, Row } from "react-bootstrap"
+import { Container, Image, Col, Row } from "react-bootstrap"
 import { Waypoint } from "react-waypoint"
 import { graphql, Link, navigate, StaticQuery } from "gatsby"
 import Img from "gatsby-image"
@@ -84,13 +84,15 @@ class Layout extends React.Component {
               <Row style={{
                 position: "absolute",
                 top: "76%",
-                width: "103%",
-                height: "22%"
+                width: "100%",
+                height: "22%",
+                marginLeft: 0,
+                marginRight: 0
               }}>
                 <Col>
                   <Link to="https://www.destinationgoldcoast.com/"
                         style={{
-                          marginLeft: "3.2%"
+                          marginLeft: "2.1%"
                         }}>
                     <Image
                       style={{
@@ -111,7 +113,7 @@ class Layout extends React.Component {
                   </Link>
                   <Link to="https://www.digitaltwinconsortium.org/"
                         style={{
-                          marginLeft: "63.7%",
+                          marginLeft: "63.7%"
                         }}>
                     <Image
                       style={{
@@ -121,36 +123,6 @@ class Layout extends React.Component {
                   </Link>
                 </Col>
               </Row>
-
-              {/*<Row style={{*/}
-              {/*  position: "absolute",*/}
-              {/*  top: "76%",*/}
-              {/*  width: "103%",*/}
-              {/*  height: "22%"*/}
-              {/*}}>*/}
-              {/*  <Col>*/}
-              {/*  </Col>*/}
-              {/*</Row>*/}
-              {/*<Row style={{*/}
-              {/*  position: "absolute",*/}
-              {/*  top: "76%",*/}
-              {/*  width: "103%",*/}
-              {/*  height: "22%"*/}
-              {/*}}>*/}
-              {/*  <Col>*/}
-              {/*    <Link to="https://www.digitaltwinconsortium.org/"*/}
-              {/*          style={{*/}
-              {/*            marginLeft: "87.5%"*/}
-              {/*          }}>*/}
-              {/*      <Image*/}
-              {/*        style={{*/}
-              {/*          width: "9.6%"*/}
-              {/*        }}*/}
-              {/*        src={digitalTwin} alt="" fluid />*/}
-              {/*    </Link>*/}
-              {/*  </Col>*/}
-              {/*</Row>*/}
-
             </div>
             <Waypoint
               invisible
@@ -158,7 +130,20 @@ class Layout extends React.Component {
               onLeave={this._handleWaypointLeave}
             />
             <Navibar title={siteMetadata.shortTitle} location={this.props.location} sticky={this.state.stickyNav} />
-            {this.props.children}
+            <Container>
+              <Row>
+                <Col md="8">
+                  {this.props.children}
+                </Col>
+                <Col md="4">
+                  <Link to="https://twitter.com/ieee_edoc">
+                    <a className="twitter-timeline" data-min-width="220" data-height="100%" data-theme="light"
+                       href="https://twitter.com/ieee_edoc?ref_src=twsrc%5Etfw">Tweets by ieee_edoc</a>
+                    <script async src="https://platform.twitter.com/widgets.js" charSet="utf-8"></script>
+                  </Link>
+                </Col>
+              </Row>
+            </Container>
             <Footer title={siteMetadata.shortTitle} author={siteMetadata.author} />
           </div>
         )}

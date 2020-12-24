@@ -22,7 +22,7 @@ const SEO = ({ title, description, image, article }) => {
   return (
     <Helmet title={seo.title} >
       <meta name="description" content={seo.description} />
-      <meta name="keywords" content="EDOC, EDOC2021, EDOC 2021, Computing, Conference, Enterprise Computing"/>
+      <meta name="keywords" content="edoc conference, edoc, EDOC, EDOC2021, EDOC 2021, Computing, Conference, Enterprise Computing"/>
       <meta name="image" content={seo.image} />
       {seo.url && <meta property="og:url" content={seo.url} />}
       {(article ? true : null) && <meta property="og:type" content="article" />}
