@@ -9,7 +9,7 @@ module.exports = {
     description: `EDOC, a series of IEEE conferences on distributed systems in and beyond the enterprise, celebrates its 25th anniversary with a return to Australia’s Gold Coast where it all began in 1997`,
     author: `vuluong@griffithuni.edu.au`,
     url: "http://ieee-edoc.org", // No trailing slash allowed!
-    image: "/2021/img/linkedin_post.png", // Path to your image you placed in the 'static' folder
+    image: "/2021/img/linkedin_post.jpg", // Path to your image you placed in the 'static' folder
     twitterUsername: "@ieee_edoc",
     siteUrl: `http://ieee-edoc.org`
   },

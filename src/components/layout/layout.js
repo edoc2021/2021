@@ -62,67 +62,6 @@ class Layout extends React.Component {
                 <Img fluid={data.fileName.childImageSharp.fluid} alt="" />
                 {/*<Image src={headerImage} alt="" fluid />*/}
               </span>
-              <Row style={{
-                position: "absolute",
-                bottom: 5,
-                width: "100%",
-                height: "100%"
-              }}>
-                <Col style={{}}>
-                  <Link to="/">
-                    <Image
-                      style={{
-                        padding: "12pt"
-                      }}
-                      src={logoImage} alt="" fluid />
-                  </Link>
-                </Col>
-                <Col />
-                <Col />
-              </Row>
-
-              <Row style={{
-                position: "absolute",
-                top: "76%",
-                width: "100%",
-                height: "22%",
-                marginLeft: 0,
-                marginRight: 0
-              }}>
-                <Col>
-                  <Link to="https://www.destinationgoldcoast.com/"
-                        style={{
-                          marginLeft: "2.1%"
-                        }}>
-                    <Image
-                      style={{
-                        width: "9.6%"
-                      }}
-                      src={desGC} alt="" fluid />
-                  </Link>
-                  <Link to="https://www.griffith.edu.au/"
-                        style={{
-                          marginLeft: "1.6%"
-                        }}
-                  >
-                    <Image
-                      style={{
-                        width: "9.6%"
-                      }}
-                      src={griffithLogo} alt="" fluid />
-                  </Link>
-                  <Link to="https://www.digitaltwinconsortium.org/"
-                        style={{
-                          marginLeft: "63.7%"
-                        }}>
-                    <Image
-                      style={{
-                        width: "9.6%"
-                      }}
-                      src={digitalTwin} alt="" fluid />
-                  </Link>
-                </Col>
-              </Row>
             </div>
             <Waypoint
               invisible
@@ -136,11 +75,58 @@ class Layout extends React.Component {
                   {this.props.children}
                 </Col>
                 <Col md="4">
+                  <h2>
+                    <span
+                      style={{
+                        borderBottomStyle: "solid",
+                        borderBottomColor: "#3e4349",
+                        borderBottomWidth: 2,
+                        color: "#2c4f90",
+                        fontWeight: 400
+                      }}>
+                      Follow us on Twitter
+                    </span>
+                  </h2>
                   <Link to="https://twitter.com/ieee_edoc">
-                    <a className="twitter-timeline" data-min-width="220" data-height="100%" data-theme="light"
+                    <a className="twitter-timeline" data-min-width="220" data-min-height="400" data-height="550"
+                       data-theme="light"
                        href="https://twitter.com/ieee_edoc?ref_src=twsrc%5Etfw">Tweets by ieee_edoc</a>
                     <script async src="https://platform.twitter.com/widgets.js" charSet="utf-8"></script>
                   </Link>
+                  <h2>
+                    <span
+                      style={{
+                        borderBottomStyle: "solid",
+                        borderBottomColor: "#3e4349",
+                        borderBottomWidth: 2,
+                        color: "#2c4f90",
+                        fontWeight: 400
+                      }}>
+                      Sponsors
+                    </span>
+                    <Link to="https://www.destinationgoldcoast.com/">
+                      <Image style={{ marginTop: 16, padding: 8 }} src={desGC} alt="" fluid />
+                    </Link>
+                    <Link to="https://www.digitaltwinconsortium.org/">
+                      <Image style={{ marginTop: 0, padding: 8 }} src={digitalTwin} alt="" fluid />
+                    </Link>
+                  </h2>
+                  <h2>
+                    <span
+                      style={{
+                        borderBottomStyle: "solid",
+                        borderBottomColor: "#3e4349",
+                        borderBottomWidth: 2,
+                        color: "#2c4f90",
+                        fontWeight: 400
+                      }}>
+                      Host
+                    </span>
+                    <Link to="https://www.griffith.edu.au/">
+                      <Image style={{ marginTop: 0, padding: 8 }} src={griffithLogo} alt="" fluid />
+                    </Link>
+                  </h2>
+
                 </Col>
               </Row>
             </Container>
