@@ -93,7 +93,8 @@ class Layout extends React.Component {
                        href="https://twitter.com/ieee_edoc?ref_src=twsrc%5Etfw">Tweets by ieee_edoc</a>
                     <script async src="https://platform.twitter.com/widgets.js" charSet="utf-8"></script>
                   </Link>
-                  <h2>
+                  <div>
+                    <h2>
                     <span
                       style={{
                         borderBottomStyle: "solid",
@@ -104,28 +105,32 @@ class Layout extends React.Component {
                       }}>
                       Sponsors
                     </span>
-                  </h2>
-                  <Link to="https://www.destinationgoldcoast.com/">
-                    <Image style={{ marginTop: 16, padding: 8 }} src={desGC} alt="" fluid />
-                  </Link>
-                  <Link to="https://www.digitaltwinconsortium.org/">
-                    <Image style={{ marginTop: 0, padding: 8 }} src={digitalTwin} alt="" fluid />
-                  </Link>
-                  <h2>
-                    <span
-                      style={{
-                        borderBottomStyle: "solid",
-                        borderBottomColor: "#3e4349",
-                        borderBottomWidth: 2,
-                        color: "#2c4f90",
-                        fontWeight: 400
-                      }}>
-                      Host
-                    </span>
-                  </h2>
-                  <Link to="https://www.griffith.edu.au/">
-                    <Image style={{ marginTop: 0, padding: 8 }} src={griffithLogo} alt="" fluid />
-                  </Link>
+                    </h2>
+                    <Link to="https://www.destinationgoldcoast.com/">
+                      <Image style={{ marginTop: 16, padding: 8 }} src={desGC} alt="" fluid />
+                    </Link>
+                    <Link to="https://www.digitaltwinconsortium.org/">
+                      <Image style={{ marginTop: 0, padding: 8 }} src={digitalTwin} alt="" fluid />
+                    </Link>
+                  </div>
+
+                  <div>
+                    <h2>
+                      <span
+                        style={{
+                          borderBottomStyle: "solid",
+                          borderBottomColor: "#3e4349",
+                          borderBottomWidth: 2,
+                          color: "#2c4f90",
+                          fontWeight: 400
+                        }}>
+                        Host
+                      </span>
+                    </h2>
+                    <Link to="https://www.griffith.edu.au/">
+                      <Image style={{ marginTop: 0, padding: 8 }} src={griffithLogo} alt="" fluid />
+                    </Link>
+                  </div>
 
                 </Col>
               </Row>
