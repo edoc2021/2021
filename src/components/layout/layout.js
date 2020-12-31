@@ -104,13 +104,13 @@ class Layout extends React.Component {
                       }}>
                       Sponsors
                     </span>
-                    <Link to="https://www.destinationgoldcoast.com/">
-                      <Image style={{ marginTop: 16, padding: 8 }} src={desGC} alt="" fluid />
-                    </Link>
-                    <Link to="https://www.digitaltwinconsortium.org/">
-                      <Image style={{ marginTop: 0, padding: 8 }} src={digitalTwin} alt="" fluid />
-                    </Link>
                   </h2>
+                  <Link to="https://www.destinationgoldcoast.com/">
+                    <Image style={{ marginTop: 16, padding: 8 }} src={desGC} alt="" fluid />
+                  </Link>
+                  <Link to="https://www.digitaltwinconsortium.org/">
+                    <Image style={{ marginTop: 0, padding: 8 }} src={digitalTwin} alt="" fluid />
+                  </Link>
                   <h2>
                     <span
                       style={{
@@ -122,10 +122,10 @@ class Layout extends React.Component {
                       }}>
                       Host
                     </span>
-                    <Link to="https://www.griffith.edu.au/">
-                      <Image style={{ marginTop: 0, padding: 8 }} src={griffithLogo} alt="" fluid />
-                    </Link>
                   </h2>
+                  <Link to="https://www.griffith.edu.au/">
+                    <Image style={{ marginTop: 0, padding: 8 }} src={griffithLogo} alt="" fluid />
+                  </Link>
 
                 </Col>
               </Row>
