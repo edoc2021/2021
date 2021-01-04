@@ -13,6 +13,9 @@ import logoImage from "../../../content/images/logo.png"
 import griffithLogo from "../../../content/images/griffith_brand.png"
 import desGC from "../../../content/images/destination_gc.png"
 import digitalTwin from "../../../content/images/digital_twin.png"
+import deontik from "../../../content/images/DeontikLogo.jpg"
+import ieeeLogo from "../../../content/images/ieee_logo.jpg"
+import ieeeCS from "../../../content/images/ieee_cs.jpg"
 
 
 class Layout extends React.Component {
@@ -106,11 +109,21 @@ class Layout extends React.Component {
                       Sponsors
                     </span>
                     </h2>
+                    <Link to="https://www.ieee.org/">
+                      <Image style={{ marginTop: 0, marginLeft: "10%", width: "75%" }} src={ieeeLogo} alt="" fluid />
+                    </Link>
+                    <Link to="https://www.computer.org/">
+                      <Image style={{ marginTop: 14, marginLeft: "10%", width: "75%" }} src={ieeeCS} alt="" fluid />
+                    </Link>
+
                     <Link to="https://www.destinationgoldcoast.com/">
-                      <Image style={{ marginTop: 16, padding: 8 }} src={desGC} alt="" fluid />
+                      <Image style={{ marginTop: 8, marginLeft: "10%", width: "75%" }} src={desGC} alt="" fluid />
                     </Link>
                     <Link to="https://www.digitaltwinconsortium.org/">
-                      <Image style={{ marginTop: 0, padding: 8 }} src={digitalTwin} alt="" fluid />
+                      <Image style={{ marginTop: 5, marginLeft: "10%", width: "75%" }} src={digitalTwin} alt="" fluid />
+                    </Link>
+                    <Link to="https://www.deontik.com/">
+                      <Image style={{ marginTop: 12, marginLeft: "10%", width: "70%" }} src={deontik} alt="" fluid />
                     </Link>
                   </div>
 
@@ -128,7 +141,8 @@ class Layout extends React.Component {
                       </span>
                     </h2>
                     <Link to="https://www.griffith.edu.au/">
-                      <Image style={{ marginTop: 0, padding: 8 }} src={griffithLogo} alt="" fluid />
+                      <Image style={{ marginTop: 0, marginLeft: "10%", width: "75%" }} src={griffithLogo} alt=""
+                             fluid />
                     </Link>
                   </div>
 
