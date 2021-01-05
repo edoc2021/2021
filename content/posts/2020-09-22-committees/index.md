@@ -95,8 +95,8 @@ Ian Gorton (Northeastern University, USA)<br/>
 Guido Governatori (CSIRO, Australia)<br/>
 Cristine Griffo (Free University of Bozen-Bolzano, Italy)<br/>
 Georg Grossmann (University of South Australia, Australia)<br/>
-Renata Guizzardi (University of Twente, The Netherlands)<br/>
 Giancarlo Guizzardi (Federal University of Espirito Santo, Brazil)<br/>
+Renata Guizzardi (University of Twente, The Netherlands)<br/>
 Simon Hacks (KTH, Sweden, Sweden)<br/>
 Sylvain Hallé (Université du Québec à Chicoutimi, Canada)<br/>
 Jun Han (Swinburne University of Technology, Australia)<br/>
@@ -126,6 +126,7 @@ Marco Montali (Free University of Bozen-Bolzano, Italy)<br/>
 João Moreira (University of Twente, The Netherlands)<br/>
 John Mylopoulos (University of Ottawa, Canada)<br/>
 Tam C. Nguyen (Melbourne Medical School/St Vincent’s Hospital Melbourne, Australia)<br/>
+Ovidiu Noran (Griffith University)<br/>
 Selmin Nurcan (University Paris 1 Pantheon Sorbonne, France)<br/>
 Andreas L Opdahl (University of Bergen, Norway)<br/>
 Hye-Young Paik (The University of New South Wales, Australia)<br/>
