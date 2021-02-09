@@ -13,7 +13,9 @@ class CallPaper extends React.Component {
     return (
       <Layout location={this.props.location}>
         <Container>
-          <h1 style={{ color: "#2c4f90" }}>Committees</h1>
+          <h1 style={{ color: "#2c4f90" }}>
+            Committees<span style={{fontSize: 20, verticalAlign: '3px', color: '#D9780F'}}>*</span>
+          </h1>
 
           <div
             dangerouslySetInnerHTML={{

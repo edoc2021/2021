@@ -14,8 +14,8 @@ type: important-dates
 
 <div style="font-size:18pt;">Workshops</div>
 
-- Workshop proposal submissions: 5 February 2021
-- Workshop proposal acceptance notification: 19 February 2021
+- Workshop proposal submissions: 12 February 2021
+- Workshop proposal acceptance notification: 26 February 2021
 - Workshop paper submission: 18 June 2021
 - Workshop papers acceptance notification: 16 July 2021
 - Workshop camera-ready papers due: 30 July 2021

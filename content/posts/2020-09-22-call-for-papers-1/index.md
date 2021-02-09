@@ -48,6 +48,7 @@ High-quality contributions addressing application domains, systems of systems li
 - Sensing and Awareness
 - Threat modelling, attack simulation, intrusion detection
 - Access control & SOA security
+- Blockchain and enterprise security
 
 <u>Business Process and Business rules</u>
 - Process modelling, verification, configuration and implementation

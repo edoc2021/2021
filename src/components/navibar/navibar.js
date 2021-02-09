@@ -18,7 +18,7 @@ const Navibar = ({ sticky, location, title }) => {
           <Container fluid={true}>
             <Navbar.Brand
               style={{
-                fontSize: 22
+                fontSize: 18,
               }}
               as={Link} to="/">{title}</Navbar.Brand>
             <Navbar.Toggle aria-controls="responsive-navbar-nav" />
@@ -41,7 +41,11 @@ const Navibar = ({ sticky, location, title }) => {
                   {/*<NavDropdown.Divider />*/}
                   {/*<NavDropdown.Item href="#action/3.4">Separated link</NavDropdown.Item>*/}
                 </HoverDropdown>
-                {/*<Nav.Link as={Link} to="/registration">Registration</Nav.Link>*/}
+                <Nav.Link
+                  style={{
+                    fontSize: 18
+                  }}
+                  as={Link} to="/registration">Registration</Nav.Link>
                 {/*<Link to="/program">Registration</Link>*/}
                 <Nav.Link
                   style={{

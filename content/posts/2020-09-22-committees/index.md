@@ -10,8 +10,8 @@ type: committees
 <h2 style="color: #3771ad">Organizing Committee</h2>
 
 **General Chair**<br/>
-Alan Wee-Chung Liew (Griffith University, Australia)<br/>
-Zoran Milosevic (Deontik/Griffith University, Australia)
+Alan Wee-Chung Liew [_Academic_] (Griffith University, Australia)<br/>
+Zoran Milosevic [_Industry_] (Deontik/Griffith University, Australia)
 
 **Program Committee Chairs**<br/>
 Peter Bernus (Griffith University, Australia)<br/>
@@ -77,6 +77,7 @@ Colin Atkinson (University of Mannheim, Germany)<br/>
 Amin Beheshti (Macquarie University, Australia)<br/>
 Andrew Berry (Resmed, Australia)<br/>
 Andy Bond (QUT/Genie, Australia)<br/>
+Ljiljana Brankovic (The University of New Castle, Australia)<br/>
 Ruth Breu (Research Group Quality Engineering, Italy)<br/>
 Claudio Di Ciccio (Sapienza University of Rome, Italy)<br/>
 Remco Dijkman (Eindhoven University of Technology, Netherlands)<br/>
@@ -115,6 +116,7 @@ Frank Leymann (University of Stuttgart, Germany)<br/>
 Peter F. Linington (University of Kent, United Kingdom)<br/>
 Giuseppe Di Lucca (University of Sannio, Italy)<br/>
 Nhan (Nathan) Tri Luong (Google, UK)<br/>
+Emil Lupu (Imperial College, UK)<br/>
 Lam Son Lê (HCMC Tech, Vietnam)<br/>
 Maria Teresa Gómez López (University of Seville, Spain)<br/>
 Wolfgang Maas (University of Saarlandes, Germany)<br/>
@@ -155,6 +157,7 @@ Stefan Tai (TU Berlin, Germany)<br/>
 Pankaj Telang (SAS Institute Inc., United States)<br/>
 Antonio Vallecillo (Universidad de Málaga, Spain)<br/>
 Barbara Weber (University of St. Gallen, Switzerland)<br/>
+Georg Weichhart (Profactor, AT)<br/>
 Hans Weigand (Tilburg University, The Netherlands)<br/>
 Mathias Weske (HPI, University of Potsdam, Germany)<br/>
 Benjamin Yen (University of Hong Kong, HK)<br/>
