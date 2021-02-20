@@ -9,7 +9,7 @@ Please find important information about registering for EDOC 2021 below.
 
 Covid19 pandemic and the related Australian border restrictions place a number of constraints on the physical attendance of international delegates at the EDOC2021 and we will update this page as circumstances change. 
 
-At present (5 Feb 2021), we are expecting the workshop component of the event to be held **physically** at Griffith University, Gold Coast on the 25 and 26th of October, because of the significant number of Australian (and possibly New Zealand) delegates. We will be also encouraging remote participation of our international colleagues.
+At present (5 Feb 2021), we are expecting the workshop component of the event to be held **physically** at Griffith University, Gold Coast on the 25th and 26th of October, because of the significant number of Australian (and possibly New Zealand) delegates. We will be also encouraging remote participation of our international colleagues.
 
 We are also expecting technology demonstration sessions to happen either during workshop sessions or in the days after.
 

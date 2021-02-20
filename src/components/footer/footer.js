@@ -40,6 +40,16 @@ const Footer = ({ author, title }) => {
           </Col>
         </Row>
         <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <p style={{textAlign: "center"}}>
+        <small>
+          We respectfully acknowledge the <a href="https://www.yugambeh.com/"><u>Yugambeh People</u></a>, the traditional owners of the land on which we meet, and pay my respect to their elders past and present, and all Aboriginal and Torres Strait Islander Peoples here today.
+        </small>
+        </p>
+        <br />
       </div>
     </div>
   )
