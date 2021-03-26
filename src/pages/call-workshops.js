@@ -13,9 +13,7 @@ class CallWorkshops extends React.Component {
     return (
       <Layout location={this.props.location}>
         <Container>
-          <h1 style={{ color: "#2c4f90" }}>Workshops</h1>
-          Please find more information on these workshops below.
-
+          <h1 style={{ color: "#2c4f90" }}>Call for Workshops Proposals</h1>
           <hr />
           <div
             dangerouslySetInnerHTML={{
@@ -34,7 +32,7 @@ export default CallWorkshops
 
 export const query = graphql`
   query {
-    post: markdownRemark(frontmatter: {type: {eq: "workshops"}}) {
+    post: markdownRemark(frontmatter: {type: {eq: "call-workshops"}}) {
       #    post: markdownRemark(frontmatter: {type: {eq: "empty"}}) {
       id
       html

@@ -35,12 +35,14 @@ class Keynote extends React.Component {
                     <div key={edge.node.id}
                       // className="content text-justify"
                     >
-                      <h2>{frontmatter.title}</h2>
+                      <h2 style={{color: '#e23d53', fontSize: 21}}>
+                        {frontmatter.title}
+                      </h2>
                       {/*<time style={{ marginRight: 10 }}*/}
                       {/*      dateTime={frontmatter?.date}>{frontmatter?.date}</time>*/}
                       {
                         authors.map((author, i) => {
-                          return <Badge style={{ marginRight: 4, fontSize: "16px" }}
+                          return <Badge style={{ marginRight: 4, fontSize: "14px" }}
                                         variant="secondary" key={i}>{author}</Badge>
                         })
                       }

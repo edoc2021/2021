@@ -1,5 +1,5 @@
 ---
-title: 'Title and abstract to be announced shortly'
+title: 'Composing Cloud Services for Analytics and AI - oh my!'
 date: '2020-11-15T13:12:03.284Z'
 path: '/keynote-1/'
 authors: 'Clemens Szyperski'
