@@ -180,6 +180,7 @@ Selmin Nurcan (Université Paris 1 Panthéon-Sorbonne, France)<br/>
 Luis Ferreira Pires (University of Twente, Netherlands)<br/>
 Daniel Ritter (SAP Germany, Germany)<br/>
 Michael Sheng (Macquarie University, Australia)<br/>
-Benjamin Yen (University of Hong Kong, Hong Kong)
+Benjamin Yen (University of Hong Kong, Hong Kong)<br/>
+Francesca Zerbato (University of St. Gallen)
 
 <h3 style="color: #D9780F">* The lists above are in alphabetic order and are being updated as committees are finalised</h3>
