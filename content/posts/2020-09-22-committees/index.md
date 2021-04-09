@@ -73,6 +73,7 @@ Marten van Sinderen (University of Twente, Netherlands)
 
 Jan Øyvind Aagedal (Equatex, Norway)<br/>
 João Paulo A. Almeida (Federal University of Espírito Santo, Brazil)<br/>
+Amir Aryani (Swinburne University of Technology, Australia)<br/>
 Colin Atkinson (University of Mannheim, Germany)<br/>
 Amin Beheshti (Macquarie University, Australia)<br/>
 Andrew Berry (Resmed, Australia)<br/>
