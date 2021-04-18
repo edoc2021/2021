@@ -90,10 +90,10 @@ The authors of selected papers will be invited to prepare a substantially revise
 
 <div style="font-size:18pt;">Important Dates</div>
 
-- Full Paper submission: 31 May 2021
-- Notification of Acceptance: 30 June 2021
-- Camera Ready Paper submission 31 August 2021
-- Author Conference Registration: 31 August 2021
+- Paper submission deadline: 14 June 2021
+- Notification of acceptance:  2 August 2021
+- Camera ready paper:  31 August 2021
+- Conference registration: 31 August 2021
 
 
 

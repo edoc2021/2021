@@ -39,10 +39,10 @@ The Doctoral Consortium Committee using the following criteria will review submi
 
 <div style="font-size:18pt;">Important Dates</div>
 
-- Doctoral papers submissions: 	June 7th, 2021
-- Doctoral papers acceptance notification: July 12th, 2021 
-- Doctoral papers camera-ready papers due: July 30th, 2021
-- Doctoral Consortium sessions: 25 October 2021
+- Paper submission deadline:  16 August 2021
+- Notification of acceptance:  13 September 2021
+- Camera ready paper:  27 September 2021
+- Conference registration: 27 September 2021
 
 <div style="font-size:18pt;">DC Advisory Committee</div>
 
