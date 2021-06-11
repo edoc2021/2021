@@ -13,12 +13,12 @@ class CallWorkshops extends React.Component {
     return (
       <Layout location={this.props.location}>
         <Container>
-          <h1 style={{ color: "#2c4f90" }}>Call for Workshop Contributions</h1>
+          <h1 style={{ color: "#2c4f90" }}>Call for Workshop Papers</h1>
           <p>
             The Industry 4.0 theme of EDOC21 has attracted many high quality workshop proposals addressing the interplay
             of new technology trends and environmental, social and governance (ESG) factors. The topics such as AI,
             privacy, ethics, trust, digital twins and interoperability bring many new challenges to the long-established
-            EDOC’s focus on building distributed systems in and beyond the enterprise - for industry and science
+            EDOC's focus on building distributed systems in and beyond the enterprise - for industry and science
             communities.
           </p>
           <p>

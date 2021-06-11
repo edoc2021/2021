@@ -26,7 +26,7 @@ Luise Pufahl (TU Berlin, Germany)
 **Demo Track Chairs**<br/>
 Keith Duddy (S23M, Australia)<br/>
 Chiara Di Francescomarino (Fondazione Bruno Kessler-IRST, Italy)<br/>
-Karolin Winter (University of Vienna, Austria)
+Karolin Winter (Technical University of Munich, Germany)
 
 **Doctoral Consortium Chairs**<br/>
 Said Assar (Institut Mines Telecom Business School, France)<br/>
@@ -50,7 +50,7 @@ Sylvain Hallé (Université du Québec à Chicoutimi, Canada)<br/>
 Lam-Son Lê (HCMC Tech, Vietnam)<br/>
 Christine Stephenson (Penrod Consulting, Australia)<br/>
 Akira Tanaka (view5 LLC, Japan)<br/>
-Karolin Winter (University of Vienna, Austria)<br/>
+Karolin Winter (Technical University of Munich, Germany)<br/>
 Benjamin Yen (University of Hong Kong, Hong Kong)
 
 <h2 style="color: #3771ad">Steering Committee</h2>

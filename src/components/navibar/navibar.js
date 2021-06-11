@@ -18,14 +18,15 @@ const Navibar = ({ sticky, location, title }) => {
           <Container fluid={true}>
             <Navbar.Brand
               style={{
-                fontSize: 18,
+                fontSize: 18
               }}
               as={Link} to="/">{title}</Navbar.Brand>
             <Navbar.Toggle aria-controls="responsive-navbar-nav" />
             <Navbar.Collapse id="responsive-navbar-nav">
               <Nav className="mr-auto">
                 <HoverDropdown href="" title="Program" id="collasible-nav-dropdown-1">
-                  <NavDropdown.Item as={Link} to="/keynote">Keynotes</NavDropdown.Item>
+                  <NavDropdown.Item as={Link} to="/keynote">Conference Keynotes</NavDropdown.Item>
+                  <NavDropdown.Item as={Link} to="/workshop-keynote">Workshop Keynotes</NavDropdown.Item>
                   {/*<NavDropdown.Item as={Link} to="/accepted-papers">Accepted papers</NavDropdown.Item>*/}
                 </HoverDropdown>
                 <HoverDropdown href="" title="Conference" id="collasible-nav-dropdown-2">
@@ -35,8 +36,8 @@ const Navibar = ({ sticky, location, title }) => {
                   <NavDropdown.Item href="https://ieee-edoc.org/">Previous EDOCs</NavDropdown.Item>
                 </HoverDropdown>
                 <HoverDropdown title="Workshops, Demos, Doctoral Consortium" id="collasible-nav-dropdown-3">
-                  <NavDropdown.Item as={Link} to="/workshops">Workshops</NavDropdown.Item>
-                  <NavDropdown.Item as={Link} to="/call-workshops">Call for Workshops</NavDropdown.Item>
+                  <NavDropdown.Item as={Link} to="/workshops">Call for Workshop Papers</NavDropdown.Item>
+                  <NavDropdown.Item as={Link} to="/call-workshops">Call for Workshop Proposals</NavDropdown.Item>
                   <NavDropdown.Item as={Link} to="/call-demos">Call for Demos</NavDropdown.Item>
                   <NavDropdown.Item as={Link} to="/doctoral-consortium">Doctoral Consortium</NavDropdown.Item>
                   {/*<NavDropdown.Divider />*/}

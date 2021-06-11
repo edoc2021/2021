@@ -13,7 +13,7 @@ class CallWorkshops extends React.Component {
     return (
       <Layout location={this.props.location}>
         <Container>
-          <h1 style={{ color: "#2c4f90" }}>Call for Workshops Proposals</h1>
+          <h1 style={{ color: "#2c4f90" }}>Call for Workshop Proposals</h1>
           <hr />
           <div
             dangerouslySetInnerHTML={{

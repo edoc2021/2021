@@ -68,7 +68,13 @@ High-quality contributions addressing application domains, systems of systems li
 - Data quality and trustworthiness
 - Combining data-driven and symbolic modelling approaches
 
-<div style="font-size:18pt;">Submission Guidelines</div>
+<div style="font-size:18pt;margin-bottom: 8pt">Submission Guidelines</div>
+
+<div style="margin-bottom: 2pt">To submit a paper:</div>
+
+- Go to EasyChair: <a style="color: black;text-decoration: underline;" href="https://easychair.org/"><i>https://easychair.org</i></a><br/>
+- Login (if you already have an account) or Create an Account and then login
+- Navigate to <a style="color: black;text-decoration: underline;" href="https://easychair.org/my/conference?conf=edoc2021"><i>https://easychair.org/my/conference?conf=edoc2021</i></a><br/>
 
 Two types of submissions are solicited:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;a) scientific research papers, and <br/>

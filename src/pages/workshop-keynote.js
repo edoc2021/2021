@@ -4,7 +4,7 @@ import { graphql } from "gatsby"
 import { Badge } from "react-bootstrap"
 
 
-class Keynote extends React.Component {
+class WorkshopKeynote extends React.Component {
 
   render() {
     const { posts } = this.props.data
@@ -15,14 +15,10 @@ class Keynote extends React.Component {
         <Layout location={this.props.location}>
           <div className="article">
             <div className="container">
-              <h1 style={{ color: "#2c4f90" }}>Conference Keynotes</h1>
+              <h1 style={{ color: "#2c4f90" }}>Workshop Keynotes</h1>
               <hr />
               <p style={{ fontSize: "17.8px" }}>
-                It is our honour to announce that our first two keynotes will be Dr. Richard Soley of OMG and Dr. Clemens
-                Szyperski of Microsoft. They plan to present their experience with and future thoughts about industry 4.0 themes, in
-                particular digital twins and highly scalable streaming analytics. Richard and Clemens were involved in
-                the inaugural EDOC'97 event and it is our particular pleasure to welcome them back for the EDOC's 25th
-                anniversary.
+                {/*[Workshop keynotes introduction]*/}
               </p>
               {
                 posts.edges.map((edge) => {
@@ -65,12 +61,12 @@ class Keynote extends React.Component {
   }
 }
 
-export default Keynote
+export default WorkshopKeynote
 
 export const query = graphql`
   query {
     posts: allMarkdownRemark(sort: {fields: [frontmatter___date], order: DESC},
-      filter: {frontmatter: {type: {eq: "keynote"}}}) {
+      filter: {frontmatter: {type: {eq: "workshop-keynote"}}}) {
       edges {
         node {
           id

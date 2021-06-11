@@ -18,4 +18,4 @@
 ## TODO:
 1. Find the replacement for GC and add to the footer:
     We acknowledge the Wurundjeri People of the Kulin Nation, the Traditional Custodians of the land on which CAiSE '21 takes place.
-    We pay our respects to all of Australia’s First Peoples, to any First Peoples in attendance, and their ancestors and Elders.
+    We pay our respects to all of Australia's First Peoples, to any First Peoples in attendance, and their ancestors and Elders.

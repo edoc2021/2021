@@ -6,7 +6,7 @@ authors: 'Clemens Szyperski'
 type: keynote
 ---
 
-<img align="right" width="185" style="margin-left:16px;margin-right:16px" src="https://raw.githubusercontent.com/edoc2021/edoc2021.github.io/dev/content/images/Clemens.jpg">
+<img align="right" width="185" style="margin-left:16px;margin-right:16px" src="img/Clemens.jpg"/>
 
 Dr. Clemens Szyperski joined Microsoft through its Research division in 1999 and has been in many roles and divisions in his over 20-year tenure since. Roles included Software Architect and Software Development Engineer as well as Development Lead, Development Manager, and Group Software Engineering Manager. Today, he works as an Architect in the Big Data group; a group in Azure Data, the organization that ships all data services on Azure as well as the on-premises data products like SQL Server. He has led efforts to ship many products and services at Microsoft, from Power Query (an engine that ships as part of Excel and also powers many other products and services, incl. Power BI) to Azure Stream Analytics to Azure Data Lake Analytics and now, in an architect role, Azure Synapse Analytics. Some core themes permeating much of his work are centered around advanced language and system concepts, such as declarative/functional/dataflow languages and how they enable composable and massively scalable system implementations.
 
