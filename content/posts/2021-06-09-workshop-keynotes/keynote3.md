@@ -3,6 +3,8 @@ title: 'Keynote title [TBD]'
 date: '2020-11-13T13:12:03.284Z'
 authors: 'Daniel Uribe'
 type: workshop-keynote
+workshop: 'AI for Health: Closing the Loop from Research to Applications'
+link: 'https://sites.google.com/view/aih-clra2021/home'
 ---
 
 <img align="right" width="185" style="margin-left:16px;margin-right:16px" src="img/Daniel-Uribe.jpg"/>

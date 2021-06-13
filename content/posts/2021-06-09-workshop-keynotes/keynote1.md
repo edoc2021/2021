@@ -4,6 +4,8 @@ date: '2020-11-15T13:12:03.284Z'
 path: '/keynote-1/'
 authors: 'Edward Santow'
 type: workshop-keynote
+workshop: '1st Workshop on Trust, Ethics and Compliance in Enterprise Computing (TrECEC)'
+link: 'https://sites.google.com/view/trecec21/invited-speaker'
 ---
 
 <img align="right" width="185" style="margin-left:16px;margin-right:16px" src="img/Edward-Santow.jpg"/>

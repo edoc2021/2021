@@ -1,7 +1,7 @@
 import React from "react"
 import Layout from "../components/layout/layout"
-import { graphql } from "gatsby"
-import { Badge } from "react-bootstrap"
+import { graphql, Link } from "gatsby"
+import Button, { Badge } from "react-bootstrap"
 
 
 class WorkshopKeynote extends React.Component {
@@ -28,14 +28,15 @@ class WorkshopKeynote extends React.Component {
                   console.log(authors)
 
                   return (
-                    <div key={edge.node.id}
-                      // className="content text-justify"
-                    >
-                      <h2 style={{color: '#e23d53', fontSize: 21}}>
+                    <div key={edge.node.id}>
+                      <h2 style={{ color: "#e23d53", fontSize: 21 }}>
                         {frontmatter.title}
                       </h2>
-                      {/*<time style={{ marginRight: 10 }}*/}
-                      {/*      dateTime={frontmatter?.date}>{frontmatter?.date}</time>*/}
+                      <Link activeStyle={{color: "red"}} to={frontmatter.link}>
+                        <h2 className="subtitle">
+                          {frontmatter.workshop}
+                        </h2>
+                      </Link>
                       {
                         authors.map((author, i) => {
                           return <Badge style={{ marginRight: 4, fontSize: "14px" }}
@@ -75,6 +76,8 @@ export const query = graphql`
             title
             date(formatString: "YYYY/MM/DD")
             authors
+            workshop
+            link
           }
         }
       }
