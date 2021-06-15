@@ -75,6 +75,13 @@ class Layout extends React.Component {
             <Container>
               <Row>
                 <Col md="8">
+                  <div className="article">
+                    <div className="container">
+                      <h4 style={{color: '#f63a3a'}}>
+                        Main Conference paper submission deadline has been extended to 28 June 2021
+                      </h4>
+                    </div>
+                  </div>
                   {this.props.children}
                 </Col>
                 <Col md="4">

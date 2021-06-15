@@ -1,12 +1,13 @@
 ---
 title: 'Future of Digital Twin technology - business and consumer applications'
-date: '2020-09-21T22:12:03.284Z'
+date: '2020-09-22T22:12:03.284Z'
 path: '/keynote-2/'
 authors: 'Richard Mark Soley'
 type: keynote
+order: 1
 ---
 
-<img align="right" width="185" style="margin-left:16px;margin-right:16px" src="img/Richard-Soley.jpg">
+<img align="right" width="185" style="margin-left:16px;margin-right:16px" src="https://raw.githubusercontent.com/edoc2021/2021/dev/static/img/Richard-Soley.jpg">
 
 Dr. Richard Mark Soley is Chairman and Chief Executive Officer of OMG ®, Executive Director of the Cloud Standards Customer Council, Executive Director of the Industrial Internet Consortium and Executive Director of the Digital Twin Consortium.
 

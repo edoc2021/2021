@@ -8,7 +8,7 @@ workshop: '1st Workshop on Trust, Ethics and Compliance in Enterprise Computing 
 link: 'https://sites.google.com/view/trecec21/invited-speaker'
 ---
 
-<img align="right" width="185" style="margin-left:16px;margin-right:16px" src="img/Edward-Santow.jpg"/>
+<img align="right" width="185" style="margin-left:16px;margin-right:16px" src="https://raw.githubusercontent.com/edoc2021/2021/dev/static/img/Edward-Santow.jpg"/>
 
 Edward Santow has been Human Rights Commissioner at the Australian Human Rights Commission since August 2016.
 
