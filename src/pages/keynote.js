@@ -24,7 +24,7 @@ class Keynote extends React.Component {
                   &bull;<b> Dr. Richard Soley</b> (OMG/Digital Twin Consortium) – Digital Twins<br/>
                   &bull;<b> Dr. Clemens Szyperski</b> (Microsoft) - Highly Scalable Streaming Analytics<br/>
                   &bull;<b> Dr. Heiko Ludwig</b> (IBM) – Federated Learning<br/>
-                  &bull;<b> Prof. Tamara Davis</b> (The University of Queensland) – Applications of Machine Learning and Distributed Computing
+                  &bull;<b> Prof. Tamara Davis</b> (The University of Queensland) – Black holes and dark energy: the computational challenges
                 </p>
                 These speakers bring together the rich history of EDOC together with insights from those new to EDOC. It
                 is our pleasure to welcome these eminent speakers for the EDOC's 25th anniversary.
