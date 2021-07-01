@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[13],{zh6b:function(n,e,t){"use strict";t.r(e);var o=t("dI71"),r=t("q1tI"),a=t.n(r),c=t("8k0H"),i=t("7vrA"),p=function(n){function e(){return n.apply(this,arguments)||this}return Object(o.a)(e,n),e.prototype.render=function(){return a.a.createElement(c.a,{location:this.props.location},a.a.createElement(i.a,null,a.a.createElement("h1",null,"This is Conference section")))},e}(a.a.Component);e.default=p}}]);
+//# sourceMappingURL=component---src-pages-conference-js-2617bb32abe1a9de3f1a.js.map
