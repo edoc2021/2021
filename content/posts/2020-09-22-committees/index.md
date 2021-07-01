@@ -175,6 +175,7 @@ Johann Eder (University of Klagenfurt, Austria)<br/>
 Georg Grossmann (University of South Australia, Australia)<br/>
 Giancarlo Guizzardi (Federal University of Espirito Santo, Brazil)<br/>
 Jens Gulden (University of Duisburg-Essen, Germany)<br/>
+Fabrizio Maria Maggi (Free University of Bozen-Bolzano, Italy)<br/>
 Florian Matthes (Technical University of Munich, Germany)<br/>
 Marco Montali (Free University of Bozen-Bolzano, Italy)<br/>
 Selmin Nurcan (Université Paris 1 Panthéon-Sorbonne, France)<br/>
