@@ -15,7 +15,7 @@ Zoran Milosevic [_Industry_] (Deontik/Griffith University, Australia)
 
 **Program Committee Chairs**<br/>
 Peter Bernus (Griffith University, Australia)<br/>
-Giancarlo Guizzardi (Free University of Bozen-Bolzano, Italy)<br/>
+Giancarlo Guizzardi (Free University of Bozen-Bolzano, Italy & University of Twente, The Netherlands)<br/>
 Dian Tjondronegoro (Griffith University, Australia)
 
 **Workshop Chairs**<br/>
@@ -80,6 +80,7 @@ Andrew Berry (Resmed, Australia)<br/>
 Andy Bond (QUT/Genie, Australia)<br/>
 Ljiljana Brankovic (The University of New Castle, Australia)<br/>
 Ruth Breu (Research Group Quality Engineering, Italy)<br/>
+Ismail Butun (Chalmers University of Technology, Sweden)<br/>
 Claudio Di Ciccio (Sapienza University of Rome, Italy)<br/>
 Remco Dijkman (Eindhoven University of Technology, Netherlands)<br/>
 Keith Duddy (S23M, Australia)<br/>
@@ -97,8 +98,8 @@ Ian Gorton (Northeastern University, USA)<br/>
 Guido Governatori (CSIRO, Australia)<br/>
 Cristine Griffo (Free University of Bozen-Bolzano, Italy)<br/>
 Georg Grossmann (University of South Australia, Australia)<br/>
-Giancarlo Guizzardi (Federal University of Espirito Santo, Brazil)<br/>
 Renata Guizzardi (University of Twente, The Netherlands)<br/>
+Giancarlo Guizzardi (Free University of Bozen-Bolzano, Italy & University of Twente, The Netherlands)<br/>
 Simon Hacks (KTH, Sweden, Sweden)<br/>
 Sylvain Hallé (Université du Québec à Chicoutimi, Canada)<br/>
 Jun Han (Swinburne University of Technology, Australia)<br/>
@@ -173,7 +174,7 @@ Amin Beheshti (Macquarie University, Australia)<br/>
 Ruth Breu (Research Group Quality Engineering, Austria)<br/>
 Johann Eder (University of Klagenfurt, Austria)<br/>
 Georg Grossmann (University of South Australia, Australia)<br/>
-Giancarlo Guizzardi (Federal University of Espirito Santo, Brazil)<br/>
+Giancarlo Guizzardi (Free University of Bozen-Bolzano, Italy & University of Twente, The Netherlands)<br/>
 Jens Gulden (University of Duisburg-Essen, Germany)<br/>
 Fabrizio Maria Maggi (Free University of Bozen-Bolzano, Italy)<br/>
 Florian Matthes (Technical University of Munich, Germany)<br/>

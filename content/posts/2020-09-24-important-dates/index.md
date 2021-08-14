@@ -8,7 +8,7 @@ type: important-dates
 <div style="font-size:18pt;">Conference</div>
 
 - Paper submission deadline: ~~14 June 2021~~ <span style="color:#f63a3a">**Extended to 28 June 2021**</span>
-- Notification of acceptance:  2 August 2021
+- Notification of acceptance:  ~~2 August 2021~~ <span style="color:#f63a3a">**8 August 2021**</span>
 - Camera ready paper:  31 August 2021
 - Conference registration: 31 August 2021
 

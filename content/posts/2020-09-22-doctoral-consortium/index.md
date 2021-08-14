@@ -11,6 +11,14 @@ We encourage submissions from Ph.D. students at an early stage of their research
 
 <div style="font-size:18pt;">Submission</div>
 
+<div style="margin-bottom: 2pt">To submit a paper:</div>
+
+- Go to EasyChair: <a style="color: black;text-decoration: underline;" href="https://easychair.org/"><i>https://easychair.org</i></a><br/>
+- Login (if you already have an account) or Create an Account and then login
+- Navigate to <a style="color: black;text-decoration: underline;" href="https://easychair.org/my/conference?conf=edoc2021"><i>https://easychair.org/my/conference?conf=edoc2021</i></a><br/>
+- Click **make a new submission**
+- Select **EDOC2021 Doctoral Consortium** and click **Continue**
+
 To participate at the Doctoral Consortium, students should submit a paper (typically 4 to 6 pages) should cover the following aspects:
 - The context and goal of the research;
 - The scientific problem addressed in the PhD project and its relevance to the conference field. Any observation or case study that justifies or substantiates the problem should be given. The problem can be further specified with research questions and hypotheses; 
@@ -18,8 +26,6 @@ To participate at the Doctoral Consortium, students should submit a paper (typic
 - The scientific method proposed to address the problem at hand ;
 - The expected results, and any result that has already been obtained so far;
 - A plan for the evaluation of results.
-
-The research summary paper is to be submitted electronically (PDF) to EDOC 2021 submission site  <a style="color: black;text-decoration: underline;" href="https://easychair.org/conferences/?conf=edoc2021"><i>https://easychair.org/conferences/?conf=edoc2021</i></a> 
 
 <div style="font-size:18pt;">Formatting instructions</div>
 
