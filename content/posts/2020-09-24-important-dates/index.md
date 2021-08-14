@@ -12,9 +12,16 @@ type: important-dates
 - Camera ready paper:  31 August 2021
 - Conference registration: 31 August 2021
 
-<div style="font-size:18pt;">EDOC Workshop/Doctoral Consortium/Demo</div>
+<div style="font-size:18pt;">EDOC Workshop/Doctoral Consortium</div>
 
 - Paper submission deadline:  16 August 2021
+- Notification of acceptance:  13 September 2021
+- Camera ready paper:  27 September 2021*
+- Conference registration: 27 September 2021*
+
+<div style="font-size:18pt;">EDOC Demo</div>
+
+- Paper submission deadline:  ~~16 August 2021~~ <span style="color:#f63a3a">**Extended to 20 August 2021**</span>
 - Notification of acceptance:  13 September 2021
 - Camera ready paper:  27 September 2021*
 - Conference registration: 27 September 2021*
