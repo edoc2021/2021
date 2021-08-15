@@ -83,8 +83,8 @@ class Layout extends React.Component {
                       <div className="article">
                         <div className="container">
                           <h5 style={{ color: "#f63a3a" }}>
-                            Demo paper submission deadline has been extended to 20 August 2021<br/>
-                            Workshop paper submission deadline has been extended to 16 August 2021
+                            * Demo paper submission deadline has been extended to 20 August 2021<br/>
+                            * For workshop submission deadlines please check the respective workshop's website
                           </h5>
                         </div>
                       </div>
