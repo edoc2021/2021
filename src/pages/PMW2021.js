@@ -13,7 +13,7 @@ class PMW2021 extends React.Component {
     return (
       <Layout location={this.props.location}>
         <Container>
-          <h1 style={{ color: "#2c4f90" }}>PMW2021: Privacy in the Modern World</h1>
+          <h1 style={{ color: "#2c4f90" }}>PMW2021: Privacy in the Modern World (Cancelled)</h1>
 
           <hr />
           <div
