@@ -1,7 +1,7 @@
 import React from "react"
 import Layout from "../components/layout/layout"
 import { graphql, Link } from "gatsby"
-import Button, { Badge } from "react-bootstrap"
+import { Badge } from "react-bootstrap"
 
 
 class WorkshopKeynote extends React.Component {

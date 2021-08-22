@@ -47,11 +47,11 @@
     "emergence.js": "^1.1.2",
     "font-awesome": "^4.7.0",
     "gatsby-link": "^2.4.14",
-    "modern-normalize": "0.7.0",
-    "prettier": "2.1.1",
-    "prismjs": "^1.21.0",
     "gatsby-plugin-sass": "^2.3.13",
-    "node-sass": "^4.14.1"
+    "modern-normalize": "0.7.0",
+    "node-sass": "^4.14.1",
+    "prettier": "2.1.1",
+    "prismjs": "^1.21.0"
   },
   "keywords": [
     "gatsby"
