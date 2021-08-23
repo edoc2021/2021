@@ -41,7 +41,7 @@ Note that the maximum page length for a paper is 10 pages. Extra overlength char
 - $100 AUD (Physical Workshop Participation after 27 September 2021) 
 - $ Free (Virtual Participation) 
 
+A link to the author registration page and camera-ready paper submission will be published here shortly. All authors will also get a notification when this becomes available by email.
 
-
-
+Please email <edoc2021@griffith.edu.au> if you need any assistance.
 
