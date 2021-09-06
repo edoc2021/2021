@@ -27,3 +27,8 @@ type: important-dates
 - Conference registration: 27 September 2021*
 
 *The camera ready version and registration for papers accepted in the two-stage submission process to the TEAR workshop at CBI are also due 27 Sept. 
+
+<div style="font-size:18pt;">Camera-ready submissions</div>
+
+- Submission to EDOC2021 main conference: <a style="color: black;text-decoration: underline;" target="_blank" href="https://ieeecps.org/#!/auth/login?ak=1&pid=47CPLjyMmpkqxXWNTqyc5t">EDOC 2021 author kit link<i></i></a>
+- Submission for EDOC2021  Workshops, Demo, Doctoral Consortium: <a style="color: black;text-decoration: underline;" target="_blank" href="https://ieeecps.org/#!/auth/login?ak=1&pid=1Wm4KNwDX5FiiRnXcxqmZY"><i>EDOCW 2021 author kit link</i></a>
