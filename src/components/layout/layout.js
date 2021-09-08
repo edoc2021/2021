@@ -75,23 +75,19 @@ class Layout extends React.Component {
             <Container>
               <Row>
                 <Col md="8">
-                  {
-                    hideAnnouncement ?
-                      null
-                      :
-                      <div className="article">
-                        <div className="container">
-                          <h5 style={{ color: "#f63a3a" }}>
-                            The deadline for the camera-ready submission and author registration of EDOC paper has been
-                            extended from 31 August to 8 September 2021 due to some technical difficulties. Once the
-                            links for camera-ready submission and author registration are ready, they could be found
-                            under: Conference -> Important Dates.
-                            {/** Demo paper submission deadline has been extended to 20 August 2021<br/>*/}
-                            {/** For workshop submission deadlines please check the respective workshop's website*/}
-                          </h5>
-                        </div>
-                      </div>
-                  }
+                  {/*{*/}
+                  {/*  hideAnnouncement ?*/}
+                  {/*    null*/}
+                  {/*    :*/}
+                  {/*    <div className="article">*/}
+                  {/*      <div className="container">*/}
+                  {/*        <h5 style={{ color: "#f63a3a" }}>*/}
+                  {/*          The deadline for the camera-ready submission and author registration of EDOC paper has been*/}
+                  {/*          extended from 31 August to 8 September 2021 due to some technical difficulties.*/}
+                  {/*        </h5>*/}
+                  {/*      </div>*/}
+                  {/*    </div>*/}
+                  {/*}*/}
                   {this.props.children}
                 </Col>
                 <Col md="4">

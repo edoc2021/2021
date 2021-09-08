@@ -13,6 +13,6 @@ The theme of EDOC2021 is on considering enterprise computing challenges in the c
 
 <div style="background: #8ed1fc; padding: 8px; border-radius: 8px">
     <b>COVID-19 Update</b><br/>
-    EDOC21 main conference will be held virtually due to the COVID19 situation and the closure of Australian borders. EDOC21 workshops, demo sessions and doctoral consortium will be run in hybrid mode, with national face to face attendees and virtual international participation.
+    <a style="color: #bd2828">(8-September 2021 update)</a> Due to the recent development in COVID19 situation, which has resulted in severe restriction of both domestic and international travel, EDOC21 main conference and all workshops will now be held virtually
 </div>
 
