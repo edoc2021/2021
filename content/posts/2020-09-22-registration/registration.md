@@ -1,8 +1,15 @@
 ---
-title: 'Call for paper' date: '2020-09-22T22:12:03.284Z' path: '/registration/' type: registration
+title: 'Call for paper' 
+date: '2020-09-22T22:12:03.284Z' 
+path: '/registration/' 
+type: registration
 ---
 
-(8-September 2021 update) <a style="color: #f63a3a; font-weight: bold">Due to the recent development in COVID19 situation, which has resulted in severe restriction of both domestic and international travel, EDOC21 main conference and all workshops will now be held virtually</a>
+(8-September 2021 update) <a style="color: #f63a3a; font-weight: bold">Due to the recent development in COVID19 situation, which has resulted in severe restriction of both domestic and international travel, EDOC21 main conference and all workshops will now be held virtually.</a>
+
+<a style="color: #f63a3a; font-weight: bold"> Virtual participation is free. However, you will need to register online to participate virtually at: <a style="color: #f63a3a; font-weight: bold" href="https://app.secure.griffith.edu.au/griffithpay/edoc-2021-participation-only.html"><i>https://app.secure.griffith.edu.au/griffithpay/edoc-2021-participation-only.html</i></a></a>
+
+<div style="margin-bottom: 2pt;font-weight: bold;font-size: 20pt">Author Registration</div>
 
 <div style="margin-bottom: 2pt;font-weight: bold">All accepted papers (main conference or Workshop/Doctoral Consortium/ Demo) are required to be registered by the
 deadline to be included in the IEEE conference or IEEE workshop proceedings.</div>
@@ -36,9 +43,6 @@ Note that student registration must be accompanied by a proof of student status 
 
 For participation only registration:
 <a style="color: black;text-decoration: underline;" href="https://app.secure.griffith.edu.au/griffithpay/edoc-2021-participation-only.html"><i>https://app.secure.griffith.edu.au/griffithpay/edoc-2021-participation-only.html</i></a>
-
-
-Note that for virtual attendance only (which is free), you will still need to checkout for the registration page to record your free registration.
 
 A receipt will be emailed to you once checkout and payment is successful.
 For any query, please email <edoc2021@griffith.edu.au>
