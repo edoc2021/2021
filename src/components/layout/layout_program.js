@@ -4,17 +4,11 @@ import { siteMetadata } from "../../../gatsby-config"
 import Footer from "../footer/footer"
 
 import "../../scss/gatstrap.scss"
-import { Col, Container, Image, Row } from "react-bootstrap"
+import { Col, Container, Row } from "react-bootstrap"
 import { Waypoint } from "react-waypoint"
-import { graphql, Link, navigate, StaticQuery } from "gatsby"
+import { graphql, navigate, StaticQuery } from "gatsby"
 import Img from "gatsby-image"
 import SEO from "../seo"
-import griffithLogo from "../../../content/images/griffith_brand.png"
-import desGC from "../../../content/images/destination_gc.png"
-import digitalTwin from "../../../content/images/digital_twin.png"
-import deontik from "../../../content/images/DeontikLogo.jpg"
-import ieeeLogo from "../../../content/images/ieee_logo.jpg"
-import ieeeCS from "../../../content/images/ieee_cs.jpg"
 
 
 class LayoutProgram extends React.Component {
@@ -39,7 +33,7 @@ class LayoutProgram extends React.Component {
   }
 
   render() {
-    const { hideAnnouncement } = this.props
+    // const { hideAnnouncement } = this.props
     return (
       <StaticQuery
         query={graphql`

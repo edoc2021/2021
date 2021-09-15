@@ -1,11 +1,10 @@
 import React from "react"
-import Layout from "../components/layout/layout"
 import { Container } from "react-bootstrap"
 import { graphql } from "gatsby"
 import LayoutProgram from "../components/layout/layout_program"
 
 
-class Registration extends React.Component {
+class PaperSessions extends React.Component {
 
   render() {
 
@@ -15,7 +14,7 @@ class Registration extends React.Component {
     return (
       <LayoutProgram location={this.props.location}>
         <Container>
-          <h1 style={{ color: "#2c4f90" }}>Test Program</h1>
+          <h1 style={{ color: "#2c4f90" }}>Paper Sessions</h1>
           <hr />
           <div
             dangerouslySetInnerHTML={{
@@ -28,11 +27,11 @@ class Registration extends React.Component {
   }
 }
 
-export default Registration
+export default PaperSessions
 
 export const query = graphql`
   query {
-    post: markdownRemark(frontmatter: {type: {eq: "test_program"}}) {
+    post: markdownRemark(frontmatter: {type: {eq: "paper-sessions"}}) {
 #    post: markdownRemark(frontmatter: {type: {eq: "empty"}}) {
       id
       html

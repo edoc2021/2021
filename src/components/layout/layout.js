@@ -39,7 +39,7 @@ class Layout extends React.Component {
   }
 
   render() {
-    const { hideAnnouncement } = this.props
+    // const { hideAnnouncement } = this.props
     return (
       <StaticQuery
         query={graphql`

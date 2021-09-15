@@ -27,6 +27,9 @@ const Navibar = ({ sticky, location, title }) => {
                 <HoverDropdown href="" title="Program" id="collasible-nav-dropdown-1">
                   <NavDropdown.Item as={Link} to="/keynote">Conference Keynotes</NavDropdown.Item>
                   <NavDropdown.Item as={Link} to="/workshop-keynote">Workshop Keynotes</NavDropdown.Item>
+                  <NavDropdown.Item as={Link} to="/industry-panel">Industry Panel</NavDropdown.Item>
+                  <NavDropdown.Item as={Link} to="/program-at-glance">Program at a Glance</NavDropdown.Item>
+                  <NavDropdown.Item as={Link} to="/paper-sessions">Paper Sessions</NavDropdown.Item>
                   {/*<NavDropdown.Item as={Link} to="/accepted-papers">Accepted papers</NavDropdown.Item>*/}
                 </HoverDropdown>
                 <HoverDropdown href="" title="Conference" id="collasible-nav-dropdown-2">
