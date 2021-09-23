@@ -30,7 +30,7 @@ class Keynote extends React.Component {
                 is our pleasure to welcome these eminent speakers for the EDOC's 25th anniversary.
               </p>
               {
-                posts.edges.map((edge) => {
+                posts.edges.map((edge, id) => {
                   console.log(edge)
                   const frontmatter = edge?.node?.frontmatter
                   const authors = frontmatter?.authors.split(",")
@@ -38,6 +38,7 @@ class Keynote extends React.Component {
 
                   return (
                     <div key={edge.node.id}
+                         id={id}
                       // className="content text-justify"
                     >
                       <h2 style={{ color: "#e23d53", fontSize: 21 }}>
