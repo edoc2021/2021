@@ -21,7 +21,7 @@ class Keynote extends React.Component {
                 It is our honour to welcome our EDOC21 keynote speakers
                 addressing topics associated with our Industry 4.0 theme.
                 <p style={{ marginTop: "4px", marginBottom: "4px" }}>
-                  &bull;<b> Dr. Richard Soley</b> (OMG/Digital Twin Consortium) – Digital Twins<br/>
+                  &bull;<b> Dr. Richard Soley/Dan Isaacs</b> (OMG/Digital Twin Consortium) – Digital Twins<br/>
                   &bull;<b> Dr. Clemens Szyperski</b> (Microsoft) - Highly Scalable Streaming Analytics<br/>
                   &bull;<b> Dr. Heiko Ludwig</b> (IBM) – Federated Learning<br/>
                   &bull;<b> Prof. Tamara Davis</b> (The University of Queensland) – Black holes and dark energy: the computational challenges

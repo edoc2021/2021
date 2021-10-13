@@ -4,7 +4,7 @@ import { graphql } from "gatsby"
 import LayoutProgram from "../components/layout/layout_program"
 
 
-class PaperSessions extends React.Component {
+class ConferencePaperSessions extends React.Component {
 
   render() {
 
@@ -14,7 +14,7 @@ class PaperSessions extends React.Component {
     return (
       <LayoutProgram location={this.props.location}>
         <Container>
-          <h1 style={{ color: "#2c4f90" }}>Paper Sessions</h1>
+          <h1 style={{ color: "#2c4f90" }}>Conference Paper Sessions</h1>
           <hr />
           <div
             dangerouslySetInnerHTML={{
@@ -27,11 +27,11 @@ class PaperSessions extends React.Component {
   }
 }
 
-export default PaperSessions
+export default ConferencePaperSessions
 
 export const query = graphql`
   query {
-    post: markdownRemark(frontmatter: {type: {eq: "paper-sessions"}}) {
+    post: markdownRemark(frontmatter: {type: {eq: "conference-paper-sessions"}}) {
 #    post: markdownRemark(frontmatter: {type: {eq: "empty"}}) {
       id
       html

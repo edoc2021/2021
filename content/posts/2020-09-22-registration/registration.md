@@ -7,7 +7,8 @@ type: registration
 
 (8-September 2021 update) <a style="color: #f63a3a; font-weight: bold">Due to the recent development in COVID19 situation, which has resulted in severe restriction of both domestic and international travel, EDOC21 main conference and all workshops will now be held virtually.</a>
 
-<a style="color: #f63a3a; font-weight: bold"> Virtual participation is free. However, you will need to register online to participate virtually at: <a style="color: #f63a3a; font-weight: bold" href="https://app.secure.griffith.edu.au/griffithpay/edoc-2021-participation-only.html"><i>https://app.secure.griffith.edu.au/griffithpay/edoc-2021-participation-only.html</i></a></a>
+<a style="color: #f63a3a; font-weight: bold"> Virtual participation is free. However, you will need to register online to participate virtually at:<br/>
+<a style="color: #f63a3a; font-weight: bold; font-size: 11pt" href="https://app.secure.griffith.edu.au/griffithpay/edoc-2021-participation-only.html"><i>https://app.secure.griffith.edu.au/griffithpay/edoc-2021-participation-only.html</i></a></a>
 
 <div style="margin-bottom: 2pt;font-weight: bold;font-size: 20pt">Author Registration</div>
 
@@ -30,8 +31,6 @@ If you have any issue registering by the deadline, please let us know by email a
 
 Note that the maximum page length for a paper is 10 pages. Extra overlength charge is $100 AUD/page.</br>
 *****Student registration must be accompanied by a proof of student status (i.e., A letter from Head of School where the student is enrolled should be emailed to: <edoc2021@griffith.edu.au>. Please indicate the paper ID covered by the registration) 
-
-<div style="margin-bottom: 2pt;font-weight: bold">Virtual participation is free. However, you will need to register online using the link below to participate virtually.</div><br/>
 
 <div style="margin-bottom: 2pt;font-weight: bold;font-size: 20pt">Registration Guidelines</div>
 

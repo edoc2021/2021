@@ -1,14 +1,23 @@
 ---
-title: 'Keynote title [TBD]'
-date: '2020-11-13T13:12:03.284Z'
-authors: 'Daniel Uribe'
+title: 'Artificial Process Intelligence: The next frontier in enterprise AI'
+date: '2020-11-15T13:12:03.284Z'
+path: '/keynote-3/'
+authors: 'Hamid R. Motahari Nezhad'
 type: workshop-keynote
-workshop: 'AI for Health: Closing the Loop from Research to Applications'
-link: 'https://sites.google.com/view/aih-clra2021/home'
+workshop: 'The 1st International Workshop on AI-enabled Policing and Law Enforcement (AI-PLE 2021)'
+link: 'https://aip-research-center.github.io/AIPLE_Workshop/2021/'
 ---
 
-<img align="right" width="185" style="margin-left:16px;margin-right:16px" src="https://raw.githubusercontent.com/edoc2021/2021/dev/static/img/Daniel-Uribe.jpg"/>
+<img align="right" width="185" style="margin-left:16px;margin-right:16px" src="https://aip-research-center.github.io/AIPLE_Workshop/2021/Hamid.jpg"/>
 
-Daniel is the CEO & Co-Founder of the Genobank.io. He is a serial entrepreneur with +15 years experience in Cybersecurity, and Cloud Computing, +4 years experience in Blockchain & Smart Contracts and recently specializes in Privacy Laws, Genomics & Bioinformatics.
-
-At EDOC'2021, he will talk about his work in utilising Blockchain for the management of personal genomic data at Genobank.io, a blockchain platform to store, share and issue Tokens representing BioAssets based on Genomic information.
+Hamid R. Motahari-Nezhad is technology innovator, researcher and an academic with a focus in Artificial Intelligence,
+Enterprise AI and Business Process Management. He is Founder and CEO of UpBrains AI, Inc., which is a startup with a
+focus on intelligent business process automation for the enterprise. He is holding an Honorary Professor of Computer
+Science position at Department of Computing at Macquarie University, Australia. Before starting UpBrains AI, Hamid
+served as Head of AI Science at EY AI Lab, Palo Alto, in EY Global Technology Innovation where he was leading the global
+AI Science team working in Document Intelligence and Enterprise AI. His background and interest lie in applied AI,
+document intelligence, conversational AI, intelligent RPA, and AI in business process automation. Prior to EY AI Lab,
+Hamid was serving as Research Lead for Cognitive Services at IBM Research, and was a member of IBM Academy of
+Technology. He has published more than 100 scholarly papers in various conferences in AI, Web, Business Process
+Management, IT Services, and in IEEE/ACM journals. Hamid has chaired and organized various events in IEEE, ACM, AAAI,
+KDD, NeurIPS, BPM, ICSOC and INFORMS conferences and workshops.
