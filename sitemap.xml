@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>http://ieee-edoc.org/2021/accepted-papers/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://ieee-edoc.org/2021/call-demos/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://ieee-edoc.org/2021/call-papers/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://ieee-edoc.org/2021/call-workshops/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://ieee-edoc.org/2021/committees/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://ieee-edoc.org/2021/conference-paper-sessions/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://ieee-edoc.org/2021/conference-program-at-glance/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://ieee-edoc.org/2021/conference/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://ieee-edoc.org/2021/dc-paper-sessions/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://ieee-edoc.org/2021/demo-paper-sessions/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://ieee-edoc.org/2021/doctoral-consortium/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://ieee-edoc.org/2021/important-dates/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://ieee-edoc.org/2021/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://ieee-edoc.org/2021/industry-panel/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://ieee-edoc.org/2021/keynote/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://ieee-edoc.org/2021/paper-videos/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://ieee-edoc.org/2021/registration/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://ieee-edoc.org/2021/venue/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://ieee-edoc.org/2021/workshop-keynote/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://ieee-edoc.org/2021/workshop-paper-sessions/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://ieee-edoc.org/2021/workshop-program-at-glance/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://ieee-edoc.org/2021/workshops/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+</urlset>
