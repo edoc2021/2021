@@ -5,7 +5,7 @@ type: conference-program-at-glance
 ---
 
 **The <a style="text-decoration: underline" href='https://conferences.computer.org/edocpub'>EDOC 2021 Proceedings</a>
-and the <a style="text-decoration: underline" href='https://ieee-edoc.org/2021/paper-videos'>Paper presentation
+and the <a style="text-decoration: underline" href='http://ieee-edoc.org/2021/paper-videos'>Paper presentation
 videos</a> are now available. Password will be sent to you by email.**
 
 **The <a style="text-decoration: underline" href='https://ieee-edoc.org/2021/conference-paper-sessions'>conference paper sessions</a> is now available. Please note – all times are in Brisbane Time (UTC/GMT +10 hours).**
