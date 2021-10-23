@@ -4,6 +4,9 @@ path: '/workshop-program-at-glance/'
 type: workshop-program-at-glance
 ---
 
+**The <a style="text-decoration: underline" href='https://conferences.computer.org/edocpub'>EDOC 2021 Proceedings</a>
+is now available. Password will be sent to you by email.**
+
 **The <a style="text-decoration: underline" href='https://ieee-edoc.org/2021/workshop-paper-sessions'>workshop paper sessions</a>, 
 <a style="text-decoration: underline" href='https://ieee-edoc.org/2021/demo-paper-sessions'>demo paper sessions</a>, and
 <a style="text-decoration: underline" href='https://ieee-edoc.org/2021/dc-paper-sessions'>doctoral consortium paper sessions</a>
